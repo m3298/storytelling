@@ -141,7 +141,9 @@ var defaultSettings = {
     {"aifont":"Georgia","family":"georgia,'times new roman',times,serif","weight":"","style":""},
     {"aifont":"Georgia-Bold","family":"georgia,'times new roman',times,serif","weight":"bold","style":""},
     {"aifont":"Georgia-Italic","family":"georgia,'times new roman',times,serif","weight":"","style":"italic"},
-    {"aifont":"Georgia-BoldItalic","family":"georgia,'times new roman',times,serif","weight":"bold","style":"italic"}
+    {"aifont":"Georgia-BoldItalic","family":"georgia,'times new roman',times,serif","weight":"bold","style":"italic"},
+    {"aifont":"Knowledge","family":"Knowledge,helvetica,sans-serif","weight":"","style":"italic"},
+    {"aifont":"Source Sans VariableT","family":"Source Sans Variable,helvetica,sans-serif","weight":"","style":"italic"}
   ],
 
   // Width ranges for responsive breakpoints (obsolete, will be removed)
