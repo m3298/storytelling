@@ -143,7 +143,7 @@ var defaultSettings = {
     {"aifont":"Georgia-Italic","family":"georgia,'times new roman',times,serif","weight":"","style":"italic"},
     {"aifont":"Georgia-BoldItalic","family":"georgia,'times new roman',times,serif","weight":"bold","style":"italic"},
     {"aifont":"Knowledge","family":"Knowledge,helvetica,sans-serif","weight":"","style":"italic"},
-    {"aifont":"Source Sans Variable","family":"Source Sans Variable,helvetica,sans-serif","weight":"","style":"italic"}
+    {"aifont":"Open Sans","family":"Open Sans,helvetica,sans-serif","weight":"","style":"italic"}
   ],
 
   // Width ranges for responsive breakpoints (obsolete, will be removed)
