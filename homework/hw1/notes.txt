@@ -1,0 +1,5 @@
+Q) The responsive html template for hw1 resizes/responds properly on screens at 395px or larger, but not for screens smaller than that. the chart disappears, or the wrong version pops up if the width is 394 or smaller. when i try toggling the screen size on inspector, the resizing/response works properly on some types of phones but not others. (the chart disappears when i open the link on my iphone6)
+is this because of the minimum width setting in the css? should we try to fix it, or should we ignore this issue? 
+
+1) Renaming the template file made your export not match up with the CSS. You can replace "#g-templates" in the CSS with "#g-hw1-a-bomb" to fix that part up
+2) There's something broken about the additional CS/JSS you added - if you remove that everything will work fine
