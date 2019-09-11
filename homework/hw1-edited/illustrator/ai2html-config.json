@@ -1,0 +1,22 @@
+{   
+    "fonts": [
+        {
+            "aifont": "SourceSansPro-Regular",
+            "family": "Source Sans Pro",
+            "weight":"",
+            "style":""
+        },
+        {
+            "aifont": "SourceSansPro-Bold",
+            "family": "Source Sans Pro",
+            "weight":"700",
+            "style":""
+        },
+        {
+            "aifont": "SourceSansPro-Black",
+            "family": "Source Sans Pro",
+            "weight":"900",
+            "style":""
+        },
+    ]
+}
