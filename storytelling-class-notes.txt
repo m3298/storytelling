@@ -1,0 +1,32 @@
+ai2html:
+- what to do if graphics that look nice in Illustrator get cut off on websites, etc
+- make sure you're using the right font -- font type in AI matches font type on website
+
+CHANGING FONT:
+https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162
+
+- create ai2html-config.json file
+- put it in the same directory as ai2html.js
+- inside ai2html-config.json, add font info
+- script > other script > run ai2html.json
+
+- embed link from Google Font
+
+3D stuff
+- Blender (free 3D modeling)
+- 3.js (how blender objects get put on the website)
+
+SVG
+- you can take SVG off from a website and paste onto AI if you copy element of the SVG
+- if it's SVG, it's probably made in D3
+
+When inspecting page:
+JS >> search for .js files in source code
+- .min.js files >> 'minimised'; gets rid of blank spaces etc, making your code v hard to read and making the file smaller
+- On Inspector, go to Console, and run: document.querySelectorAll('svg')
+
+- build system turns nice CSS/JS into unreadable, minimised versions
+
+CACHE BUSTER
+- a string of numbers after a .js file
+- every time config.js changes, it gets renamed with a string of numbers so that the computer knows it's an updated .js file

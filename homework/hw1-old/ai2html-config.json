@@ -1,0 +1,16 @@
+{	
+	"fonts": [
+        {
+            "aifont": "AdobeSongStd-Light",
+            "family": "SimSun,STSong,宋体,华文宋体,serif",
+            "weight":"",
+            "style":""
+        },
+        {
+            "aifont": "MyriadPro-Regular",
+            "family": "Myriad Pro",
+            "weight": "400",
+            "style": ""
+        },
+    ]
+}
