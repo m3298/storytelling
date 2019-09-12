@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 705.4 450.1" style="enable-background:new 0 0 705.4 450.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;fill:none;stroke:#000000;}
+	.st1{fill:none;stroke:#000000;}
+	.st2{fill:none;stroke:#777777;stroke-opacity:0;}
+	.st3{fill:none;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:#EEB635;}
+	.st6{font-family:'Helvetica';}
+	.st7{font-size:12px;}
+</style>
+<defs  xmlns="http://www.w3.org/1999/xhtml">
+	<style  type="text/css">
+		<![CDATA[
+* { box-sizing: border-box; }
+a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, p, pre, q, ruby, s, samp, section, small, span, strike, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video { margin: 0px; padding: 0px; border: 0px; font: inherit; vertical-align: baseline; }
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section { display: block; }
+a img { border: none; }
+blockquote { quotes: none; }
+blockquote::after, blockquote::before { content: none; }
+table { border-collapse: collapse; border-spacing: 0px; }
+caption, td, th { text-align: left; font-weight: 400; vertical-align: middle; }
+.hide-accessible { width: 1px; height: 1px; overflow: hidden; position: absolute; }
+.hide-invisible { visibility: hidden; }
+.hide-display { display: none; }
+.skip-to-main { border: none; width: 1px; height: 1px; overflow: hidden; position: absolute; }
+.skip-to-main:focus { width: auto; height: auto; background-color: rgb(239, 239, 239); padding: 0.5em; z-index: 1; }
+.prose { max-width: 40rem; margin: 0px auto; padding: 0px 1rem; }
+.prose__hed { font-weight: 700; }
+.graphic__hed { font-weight: 500; }
+.graphic__dek { margin: 0px 0px 1.5rem; }
+.graphic__chart { width: 100%; }
+.graphic__key { display: flex; flex-wrap: wrap; margin-bottom: 0.5rem; -webkit-box-pack: end; justify-content: flex-end; }
+.graphic__key li { padding: 0px; margin-left: 0.75em; letter-spacing: 0.05em; text-transform: uppercase; font-weight: 700; line-height: 1; }
+.graphic__key li::before { content: ""; display: inline-block; width: 0.8em; height: 0.8em; background-color: rgb(42, 42, 42); margin-right: 0.25em; }
+.tk-canela { font-family: "Publico Text Web", Georgia, Times, serif; }
+.loaded-canela .tk-canela { font-family: "Canela Web", "Publico Text Web", Georgia, Times, serif; }
+.tk-publico { font-family: "Publico Text Web", Georgia, Times, serif; }
+.loaded-publico .tk-publico { font-family: "Publico Text Web", "Publico Text Web", Georgia, Times, serif; }
+.tk-atlas { font-family: "Atlas Grotesk Web", Helvetica, Arial, sans-serif; }
+.loaded-atlas .tk-atlas { font-family: "Atlas Grotesk Web", "Atlas Grotesk Web", Helvetica, Arial, sans-serif; }
+.xxx-small { font-size: 10px; line-height: 1.5; }
+.xx-small { font-size: 11px; line-height: 1.5; }
+.x-small { font-size: 12px; line-height: 1.5; }
+.small { font-size: 14px; line-height: 1.5; }
+.root { font-size: 16px; line-height: 1.7; }
+.medium { font-size: 17px; line-height: 1.7; }
+.large { font-size: 24px; line-height: 1.5; }
+.x-large { font-size: 32px; line-height: 1.5; }
+.xx-large { font-size: 40px; line-height: 1.2; }
+.xxx-large { font-size: 48px; line-height: 1.2; }
+.xxxx-large { font-size: 64px; line-height: 1.2; }
+body { font-feature-settings: "kern", "onum", "liga" 0, "tnum"; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; background-color: rgb(255, 255, 255); color: rgb(42, 42, 42); font-size: 16px; }
+h1 { font-size: 40px; line-height: 1.2; margin-top: 1.5rem; }
+h2 { font-size: 32px; line-height: 1.2; margin-top: 1.5rem; }
+h3 { font-size: 24px; line-height: 1.2; margin-top: 1.5rem; }
+h4 { font-size: 17px; line-height: 1.7; margin-top: 1.5rem; }
+h5 { font-size: 16px; line-height: 1.7; margin-top: 1.5rem; }
+h6 { font-size: 14px; line-height: 1.5; margin-top: 1.5rem; }
+p { margin: 1.5rem 0px; font-size: 16px; line-height: 1.7; }
+a { text-decoration: none; border-bottom: 1px solid rgb(42, 42, 42); color: rgb(42, 42, 42); }
+a:hover, a:visited { color: rgb(42, 42, 42); }
+b, strong { font-weight: 700; }
+em, i { font-style: italic; }
+ul { list-style-type: none; }
+li { font-size: 16px; }
+img, video { display: block; width: 100%; }
+button { cursor: pointer; border: none; outline: 0px; margin: 0px; padding: 0px; font-size: 16px; }
+sub, sup { font-size: 0.75rem; line-height: 0; position: relative; vertical-align: baseline; }
+sup { top: -0.5em; }
+sub { bottom: -0.25em; }
+header { z-index: 1000; position: absolute; top: 0px; left: 0px; width: 100%; }
+header a.logo { display: block; border: none; max-width: 9rem; margin: 1rem auto; }
+header a.logo svg { fill: rgb(42, 42, 42); display: block; width: 100%; }
+a { border-width: 1px; border-color: rgb(185, 8, 5); }
+.color--accent { color: rgb(185, 8, 5); }
+.color--female { color: rgb(238, 182, 53); }
+.color--male { color: rgb(38, 84, 115); }
+.intro { margin: 0px auto; padding: 4rem 1rem 1.5rem; }
+.intro__hed { max-width: 63rem; margin: 0px auto; text-align: center; font-size: 40px; line-height: 1.2; }
+.intro__byline { max-width: 40rem; margin: 0px auto; padding-top: 5rem; padding-bottom: 1.5rem; text-align: center; font-size: 14px; line-height: 1.5; }
+.intro__dek { max-width: 40rem; margin: 0px auto; padding-top: 1.5rem; text-align: center; font-size: 17px; line-height: 1.7; }
+.midTitle { margin-top: 0px; font-weight: 700; }
+main { overflow: hidden; }
+.axis path, .axis line { fill: none; stroke: rgb(0, 0, 0); shape-rendering: crispedges; }
+#powerSplit_graph .axis line { stroke-dasharray: 4px, 4px; stroke: rgb(204, 204, 204); }
+.options { text-align: center; margin-bottom: 1rem; }
+.options p { margin: 0px; text-transform: uppercase; font-weight: 700; letter-spacing: 0.05em; font-size: 12px; padding-top: 20px; }
+.btn { background-color: rgb(204, 204, 204); border: 1px solid rgb(255, 255, 255); color: rgb(255, 255, 255); padding: 0.25em 0.5em; text-transform: uppercase; font-weight: 700; letter-spacing: 0.05em; font-size: 12px; transition: background-color 250ms ease 0s; }
+#descendingFemale:hover { background-color: rgb(238, 182, 53); }
+#descendingMale:hover { background-color: rgb(38, 84, 115); }
+.activeFemale { background-color: rgb(238, 182, 53); }
+.activeMale { background-color: rgb(38, 84, 115); }
+.gifs { padding: 1rem; margin: 5rem auto 0px; width: 10rem; }
+.gif_last { padding: 1rem; margin: 1rem auto 0px; width: 10rem; }
+.gifs:first-child { margin-top: 0px; }
+.gifs img { width: 100%; display: block; }
+.intro .gifs img { margin-left: 1rem; }
+img.displayed_still { display: block; margin-left: auto; margin-right: auto; width: 125px; }
+.legend { display: none; }
+#tooltip { position: absolute; text-align: left; height: auto; padding: 10px; background: white; pointer-events: none; z-index: 100; box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 4px 2px; }
+#tooltip.hidden { display: none; }
+#tooltip p { display: block; margin: 0px; padding: 0px; font-size: 11px; }
+#tooltip .difference { font-size: 13px; font-weight: 500; }
+#tooltip .gender { height: 100%; overflow: hidden; }
+#tooltip span { width: 50%; float: left; }
+#tooltip .number { text-align: right; }
+.dimChart__vis, .graphic__vis, .powerSplit__vis, .genNames__vis, .teams__vis, .career_chart__vis { position: relative; z-index: 1; max-width: 900px; margin-left: auto; margin-right: auto; }
+.genNames__vis svg { position: relative; display: block; margin-left: auto; margin-right: auto; }
+.career_chart__vis svg { position: relative; display: block; margin-left: auto; margin-right: auto; }
+.powerSplit__vis svg { position: relative; display: block; margin-left: auto; margin-right: auto; }
+.dimChart__vis svg { position: relative; display: block; margin-left: auto; margin-right: auto; }
+.graphic__vis svg { position: relative; display: block; margin-left: auto; margin-right: auto; }
+.teams__vis svg { position: relative; display: block; margin-left: auto; margin-right: auto; }
+.chartBody { position: relative; }
+.paddedIntro { margin: 0px auto; width: 100%; max-width: 40rem; text-align: left; }
+.paddedBody { margin: 0px auto; width: 100%; max-width: 40rem; text-align: left; }
+.chartHed { position: relative; margin: 0px auto; width: 90%; max-width: 40rem; padding-top: 10px; }
+.chartTitle { margin-bottom: 0.5rem; padding-bottom: 0px; font-weight: 500; line-height: 1.2; }
+.chartText { padding-top: 0px; margin-top: 0px; }
+.graphicWrapper { margin-right: auto; margin-left: auto; position: relative; width: 100%; max-width: 640px; }
+.note p { margin-top: 0px; margin-bottom: 1rem; }
+.note { position: relative; margin-left: auto; margin-right: auto; width: 90%; max-width: 40rem; margin-top: 1rem; font-weight: 300; padding: 0.5rem; border-top: 1px solid rgb(204, 204, 204); }
+.note .medium { margin-bottom: 0.5rem; }
+.chart__labels { height: 100%; overflow: hidden; max-width: 640px; margin: 0px auto 0.5rem; }
+.chart__labels .label_axis { font-weight: bold; width: 50%; float: left; margin: 0px; text-align: center; }
+#pts_label { margin-bottom: 0px; text-align: center; font-weight: 400; font-size: 12px; }
+#outliers_back { display: none; }
+#powers_radius, #norm_radius { float: right; }
+#sizeBy { border: 1px solid rgb(255, 255, 255); border-radius: 3px; color: rgb(24, 42, 55); padding: 0.25em 0.5em; text-transform: uppercase; font-weight: 700; letter-spacing: 0.05em; font-size: 12px; float: right; }
+#yAxis_genName { display: none; }
+.label_axis { font-weight: 500; font-size: 12px; text-transform: uppercase; letter-spacing: 0.05em; }
+.power_bar { cursor: pointer; stroke: rgba(0, 0, 0, 0.5); stroke-width: 0.5px; }
+.bar__label { font-weight: 500; font-size: 9px; letter-spacing: 0.05em; fill: rgb(136, 136, 136); cursor: pointer; }
+.bar__label--bg { fill: none; stroke: white; stroke-width: 3px; }
+.domain { display: none; }
+.tick { font-weight: 300; font-size: 12px; text-transform: uppercase; letter-spacing: 0.05em; z-index: 100; }
+line.between { stroke: rgb(136, 136, 136); stroke-dasharray: 4px, 4px; stroke-width: 0.5px; }
+line.between_ex { stroke: rgb(136, 136, 136); stroke-dasharray: 4px, 4px; stroke-width: 0.5px; }
+.genDot { cursor: pointer; stroke-width: 0.5px; stroke: rgba(0, 0, 0, 0.5); }
+.genDot_ex { cursor: pointer; stroke-width: 0.5px; stroke: rgba(0, 0, 0, 0.5); }
+.genDot.is-active { stroke-width: 2px; }
+#swarm { max-width: 640px; width: 100%; margin-right: auto; margin-left: auto; }
+#stick { display: none; position: fixed; top: 50%; right: 0px; z-index: 100; max-width: 250px; max-height: 300px; font-size: 12px; transform: translate(100%, -50%); transition: transform 500ms ease 0s, -webkit-transform 500ms ease 0s; }
+#stick.is-visible { transform: translate(0px, -50%); }
+#stick2 { display: none; position: fixed; top: 50%; right: 0px; z-index: 100; max-width: 250px; max-height: 300px; font-size: 12px; transform: translate(100%, -50%); transition: transform 500ms ease 0s, -webkit-transform 500ms ease 0s; }
+#stick2.is-visible { transform: translate(0px, -50%); }
+#titleInsert { color: rgb(185, 8, 5); text-transform: uppercase; letter-spacing: 0.05em; font-size: 0.8rem; font-weight: 700; }
+#titleInsert_powers { color: rgb(185, 8, 5); text-transform: uppercase; letter-spacing: 0.05em; font-size: 0.8rem; font-weight: 700; }
+.sticky_parent { height: 50px; line-height: 50px; margin-top: 10px; font-size: 30px; padding-left: 10px; position: sticky; top: 0px; }
+.sidebar { position: sticky; top: 0px; }
+.annotation-group { font-size: 12px; }
+.remaining-content span { display: none; }
+.bubbles { width: 100%; margin-right: 1%; }
+#textInsert_names { font-size: 10px; }
+.bubble { position: relative; background-color: rgb(255, 255, 255); border-radius: 12px; box-shadow: rgba(0, 0, 0, 0.3) 2px 2px 2px; display: inline-block; vertical-align: top; border: 2px solid rgb(0, 0, 0); margin: 20px; }
+.bubble.arrow::before, .bubble.arrow::after { position: absolute; background-color: rgb(255, 255, 255); content: " "; display: block; height: 18px; width: 24px; left: 20px; bottom: -10px; transform: rotate(-45deg) skew(-45deg); }
+.bubble.arrow::before { background-color: transparent; box-shadow: rgba(0, 0, 0, 0.3) 2px 2px 2px; width: 30px; }
+.bubble.arrow::after { bottom: -8px; border-style: solid; border-color: rgb(0, 0, 0); border-image: initial; border-width: 0px 4px 3px; }
+.bubble.br::before, .bubble.br::after { left: auto; right: 120px; transform: rotate(45deg) skew(45deg); }
+.bubble.br::before { bottom: -10px; width: 24px; right: 120px; }
+:root { --annotation-color: grey; }
+.annotation path { stroke: var(--annotation-color); fill: none; }
+.annotation text, .annotation .annotation-connector .connector-dot, .annotation path.connector-arrow, .annotation.callout.rect path.subject { fill: var(--annotation-color); }
+.annotation-note-title { font-weight: bold; }
+.annotation-note-bg { fill: white; }
+.annotation.callout.rect path.subject { fill-opacity: 0.1; }
+.annotation.badge path.subject-pointer, .annotation.badge path.subject { fill: var(--annotation-color); stroke-width: 3px; stroke-linecap: round; }
+.annotation.badge path.subject-ring { fill: white; stroke-width: 3px; }
+.annotation.badge .badge-text { fill: white; font-size: 0.7em; }
+.editable .annotation-subject, .editable .annotation-note { cursor: move; }
+circle.handle { stroke-dasharray: 5; stroke: var(--annotation-color); fill: rgba(255, 255, 255, 0.2); cursor: move; stroke-opacity: 0.4; }
+.pudding-footer { margin: 0px; font-weight: 400; font-style: normal; font-size: 16px; line-height: 1.6; font-family: "Atlas Grotesk Web", "Whitney SSm A", "Whitney SSm B", Helvetica, Arial, sans-serif; background-color: rgb(239, 239, 239); color: rgb(42, 42, 42); padding-top: 1em; box-sizing: border-box; }
+.pudding-footer * { box-sizing: border-box; }
+.pudding-footer p { padding: 0px; margin: 0px; font-size: 1em; line-height: 1.6; max-width: 100%; }
+.pudding-footer .btn { background-color: rgb(221, 221, 221); color: rgb(42, 42, 42); font-weight: 500; font-size: 1rem; border-radius: 3px; letter-spacing: 0.05em; text-transform: uppercase; padding: 0.5rem 0.75rem; cursor: pointer; user-select: none; outline: 0px; }
+.pudding-footer .btn--primary { background-color: rgb(235, 87, 87); color: rgb(255, 255, 255); }
+.pudding-footer .btn--dark { background-color: rgb(42, 42, 42); color: rgb(255, 255, 255); }
+.pudding-footer .xxx-small { font-size: 10px; line-height: 1.5; }
+.pudding-footer .xx-small { font-size: 12px; line-height: 1.5; }
+.pudding-footer .x-small { font-size: 14px; line-height: 1.5; }
+.pudding-footer .small { font-size: 16px; line-height: 1.5; }
+.pudding-footer .medium { font-size: 18px; line-height: 1.7; }
+.pudding-footer .large { font-size: 24px; line-height: 1.5; }
+.pudding-footer .x-large { font-size: 32px; line-height: 1.2; }
+.pudding-footer .xx-large { font-size: 48px; line-height: 1.2; }
+.pudding-footer .xxx-large { font-size: 64px; line-height: 1.2; }
+.pudding-footer .footer-social { padding: 1em; max-width: 40em; margin: 0px auto; text-align: center; font-size: 1em; }
+.pudding-footer .footer-social__preach { display: block; padding: 0px; margin-right: 0.5em; }
+.pudding-footer .footer-social__preach strong { font-weight: 700; }
+.pudding-footer .footer-social__icons { display: inline-block; vertical-align: middle; margin-top: 1em; overflow: hidden; zoom: 1; }
+.pudding-footer .footer-social__icon { float: left; margin: 0px 0.5em 0px 0px; padding: 0px; line-height: 1; display: inline-block; }
+.pudding-footer .footer-recirc { padding: 1em; font-size: 1em; }
+.pudding-footer .footer-recirc__hed { font-family: "Atlas Grotesk Web", "Whitney SSm A", "Whitney SSm B", Helvetica, Arial, sans-serif; text-align: center; color: rgb(26, 26, 26); font-weight: 700; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 1rem; }
+.pudding-footer .footer-recirc__articles { margin: 0px auto; max-width: 50em; display: flex; flex-wrap: wrap; justify-content: center; }
+.pudding-footer .footer-recirc__article { margin: 0px; padding: 1em; display: block; text-align: left; text-decoration: none; color: rgb(42, 42, 42); font-size: 0.8em; width: 100%; max-width: 19em; border: none; }
+.pudding-footer .footer-recirc__article p { padding: 0px; }
+.pudding-footer .footer-recirc .article__headline { font-family: "Atlas Grotesk Web", "Whitney SSm A", "Whitney SSm B", Helvetica, Arial, sans-serif; font-weight: 400; margin-top: 1em; }
+.pudding-footer .footer-recirc .article__img { width: 100%; height: 8em; background-position: center center; background-repeat: no-repeat; background-size: cover; }
+.pudding-footer .footer-support { width: 100%; max-width: 30rem; margin: 0px auto; position: relative; padding: 1rem; display: flex; justify-content: space-between; flex-direction: column; }
+.pudding-footer .footer-support p { margin: 0px 0px 0.5rem; text-align: center; }
+.pudding-footer .footer-support .support__item { margin-bottom: 1.5rem; }
+.pudding-footer .footer-support .support__patreon .btn { display: block; margin: 0px auto; width: 9rem; background-color: rgb(42, 42, 42); font-size: 0.65rem; line-height: 1.2; }
+.pudding-footer .footer-support .support__patreon a { border: none; display: block; text-decoration: none; }
+.pudding-footer .footer-support .patreon__content { text-align: center; }
+.pudding-footer .footer-support .subscribe__newsletter form { display: flex; justify-content: center; }
+.pudding-footer .footer-support .subscribe__newsletter .newsletter__input { display: block; border: 1px solid rgb(170, 170, 170); border-radius: 3px; font-size: 0.65rem; background-color: rgb(255, 255, 255); color: rgb(72, 72, 72); height: 1.75rem; padding: 0.5rem; width: 12rem; background-size: 35px 162px; background-image: url("https://pudding.cool/common/assets/misc/icon.png"); background-position: right -43px; background-repeat: no-repeat; }
+.pudding-footer .footer-support .subscribe__newsletter .newsletter__input::-webkit-input-placeholder { color: rgb(136, 136, 136); font-family: "Atlas Grotesk Web", Helvetica, sans-serif; }
+.pudding-footer .footer-support .subscribe__newsletter .newsletter__button { border: none; -webkit-appearance: none; outline: 0px; margin-left: 0.5rem; font-size: 0.65rem; text-decoration: none; }
+.pudding-footer .footer-company { padding: 1em; background: rgb(255, 255, 255); color: rgb(42, 42, 42); display: flex; flex-wrap: wrap; font-size: 1em; }
+.pudding-footer .footer-company a { color: rgb(42, 42, 42); text-decoration: none; border-bottom: 1px dotted rgb(26, 26, 26); }
+.pudding-footer .footer-company p, .pudding-footer .footer-company ul { margin: 0px; font-weight: 400; font-size: 0.8em; line-height: 1.6; list-style-type: none; }
+.pudding-footer .footer-company__wrapper { max-width: 60em; margin: 0px auto; display: flex; flex-wrap: wrap; justify-content: space-between; overflow: hidden; zoom: 1; }
+.pudding-footer .footer-company__left { max-width: 25em; padding: 0px 1em; }
+.pudding-footer .footer-company__description { max-width: 25em; padding: 1em 0px; }
+.pudding-footer .footer-company__right { max-width: 25em; padding: 0px 1em; text-align: left; margin: 0px auto; }
+.pudding-footer .footer-company svg { fill: rgb(0, 0, 0); height: 16px; width: 16px; }
+.pudding-footer .footer-company ul { max-width: 40em; margin: 1em auto; display: inline-block; overflow: hidden; zoom: 1; }
+.pudding-footer .footer-company ul li { margin-right: 1.5em; float: left; font-size: 12px; }
+.pudding-footer .footer-company ul li a { text-transform: uppercase; text-decoration: none; border-bottom: none; font-weight: 400; }
+.pudding-footer .footer-company__trademark { width: 100%; }
+.pudding-footer .footer-company__trademark p { font-family: "Atlas Grotesk Web", "Whitney SSm A", "Whitney SSm B", Helvetica, Arial, sans-serif; margin: 3em auto 1em; width: 100%; text-align: center; font-weight: 500; text-transform: uppercase; letter-spacing: 0.05em; padding: 0px 1em; color: rgb(136, 136, 136); font-size: 0.8em; }
+.pudding-footer .footer-company__trademark span { font-weight: 400; }
+.fb_hidden { position: absolute; top: -10000px; z-index: 10001; }
+.fb_reposition { overflow: hidden; position: relative; }
+.fb_invisible { display: none; }
+.fb_reset { background: none; border: 0px; border-spacing: 0px; color: rgb(0, 0, 0); cursor: auto; direction: ltr; font-family: "lucida grande", tahoma, verdana, arial, sans-serif; font-size: 11px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 1; margin: 0px; overflow: visible; padding: 0px; text-align: left; text-decoration: none; text-indent: 0px; text-shadow: none; text-transform: none; visibility: visible; white-space: normal; word-spacing: normal; }
+.fb_animate { animation: 0.3s ease 0s 1 normal forwards running fb_transform; }
+.fb_dialog { background: rgba(82, 82, 82, 0.7); position: absolute; top: -10000px; z-index: 10001; }
+.fb_dialog_advanced { border-radius: 8px; padding: 10px; }
+.fb_dialog_content { background: rgb(255, 255, 255); color: rgb(55, 55, 55); }
+.fb_dialog_close_icon { background: url("https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png") 0px 0px no-repeat scroll transparent; cursor: pointer; display: block; height: 15px; position: absolute; right: 18px; top: 17px; width: 15px; }
+.fb_dialog_mobile .fb_dialog_close_icon { left: 5px; right: auto; top: 5px; }
+.fb_dialog_padding { background-color: transparent; position: absolute; width: 1px; z-index: -1; }
+.fb_dialog_close_icon:hover { background: url("https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png") 0px -15px no-repeat scroll transparent; }
+.fb_dialog_close_icon:active { background: url("https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png") 0px -30px no-repeat scroll transparent; }
+.fb_dialog_iframe { line-height: 0; }
+.fb_dialog_content .dialog_title { background: rgb(109, 132, 180); border: 1px solid rgb(54, 88, 153); color: rgb(255, 255, 255); font-size: 14px; font-weight: bold; margin: 0px; }
+body.fb_hidden { height: 100%; left: 0px; margin: 0px; overflow: visible; position: absolute; top: -10000px; transform: none; width: 100%; }
+.fb_dialog.fb_dialog_mobile.loading { background: url("https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif") 50% 50% no-repeat white; min-height: 100%; min-width: 100%; overflow: hidden; position: absolute; top: 0px; z-index: 10001; }
+.fb_dialog.fb_dialog_mobile.loading.centered { background: none; height: auto; min-height: initial; min-width: initial; width: auto; }
+.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner { width: 100%; }
+.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content { background: none; }
+.loading.centered #fb_dialog_loader_close { clear: both; color: rgb(255, 255, 255); display: block; font-size: 18px; padding-top: 20px; }
+#fb-root #fb_dialog_ipad_overlay { background: rgba(0, 0, 0, 0.4); bottom: 0px; left: 0px; min-height: 100%; position: absolute; right: 0px; top: 0px; width: 100%; z-index: 10000; }
+#fb-root #fb_dialog_ipad_overlay.hidden { display: none; }
+.fb_dialog.fb_dialog_mobile.loading iframe { visibility: hidden; }
+.fb_dialog_mobile .fb_dialog_iframe { position: sticky; top: 0px; }
+.fb_dialog_content .dialog_header { border-bottom: 1px solid rgb(4, 59, 135); border-top-color: rgb(4, 59, 135); border-right-color: rgb(4, 59, 135); border-left-color: rgb(4, 59, 135); box-shadow: white 0px 1px 1px -1px inset; color: rgb(255, 255, 255); font: bold 14px Helvetica, sans-serif; text-overflow: ellipsis; text-shadow: rgba(0, 30, 84, 0.298) 0px -1px 0px; vertical-align: middle; white-space: nowrap; }
+.fb_dialog_content .dialog_header table { height: 43px; width: 100%; }
+.fb_dialog_content .dialog_header td.header_left { font-size: 12px; padding-left: 5px; vertical-align: middle; width: 60px; }
+.fb_dialog_content .dialog_header td.header_right { font-size: 12px; padding-right: 5px; vertical-align: middle; width: 60px; }
+.fb_dialog_content .touchable_button { background-clip: padding-box; border: 1px solid rgb(41, 72, 125); border-radius: 3px; display: inline-block; line-height: 18px; margin-top: 3px; max-width: 85px; padding: 4px 12px; position: relative; }
+.fb_dialog_content .dialog_header .touchable_button input { background: none; border: none; color: rgb(255, 255, 255); font: bold 12px Helvetica, sans-serif; margin: 2px -12px; padding: 2px 6px 3px; text-shadow: rgba(0, 30, 84, 0.298) 0px -1px 0px; }
+.fb_dialog_content .dialog_header .header_center { color: rgb(255, 255, 255); font-size: 16px; font-weight: bold; line-height: 18px; text-align: center; vertical-align: middle; }
+.fb_dialog_content .dialog_content { background: url("https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif") 50% 50% no-repeat; border-width: 0px 1px; border-right-style: solid; border-left-style: solid; border-right-color: rgb(74, 74, 74); border-left-color: rgb(74, 74, 74); border-image: initial; border-bottom-style: initial; border-bottom-color: initial; border-top-style: initial; border-top-color: initial; height: 150px; }
+.fb_dialog_content .dialog_footer { background: rgb(245, 246, 247); border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(74, 74, 74) rgb(74, 74, 74); border-image: initial; height: 40px; }
+#fb_dialog_loader_close { float: left; }
+.fb_dialog.fb_dialog_mobile .fb_dialog_close_button { text-shadow: rgba(0, 30, 84, 0.298) 0px -1px 0px; }
+.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon { visibility: hidden; }
+#fb_dialog_loader_spinner { animation: 1.2s linear 0s infinite normal none running rotateSpinner; background-color: transparent; background-image: url("https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png"); background-position: 50% 50%; background-repeat: no-repeat; height: 24px; width: 24px; }
+.fb_iframe_widget { display: inline-block; position: relative; }
+.fb_iframe_widget span { display: inline-block; position: relative; text-align: justify; }
+.fb_iframe_widget iframe { position: absolute; }
+.fb_iframe_widget_fluid_desktop, .fb_iframe_widget_fluid_desktop span, .fb_iframe_widget_fluid_desktop iframe { max-width: 100%; }
+.fb_iframe_widget_fluid_desktop iframe { min-width: 220px; position: relative; }
+.fb_iframe_widget_lift { z-index: 1; }
+.fb_iframe_widget_fluid { display: inline; }
+.fb_iframe_widget_fluid span { width: 100%; }
+.__burner-mail-lrsrpkb { position: relative !important; }
+body #hkpjpx.vkxn.__burner-mail-container { position: absolute !important; top: 0px !important; left: 0px !important; width: 181.312px !important; height: 28px !important; z-index: auto !important; pointer-events: none !important; }
+			
+			]]>
+	</style>
+</defs>
+<defs  xmlns="http://www.w3.org/1999/xhtml">
+	<style  type="text/css"></style>
+</defs>
+<defs  xmlns="http://www.w3.org/1999/xhtml">
+	<style  type="text/css"></style>
+</defs>
+<defs  xmlns="http://www.w3.org/1999/xhtml">
+	<style  type="text/css"></style>
+</defs>
+<defs  xmlns="http://www.w3.org/1999/xhtml">
+	<style  type="text/css"></style>
+</defs>
+<path class="st0" d="M-897.6,1849.5V-50h550v1899.5"/>
+<line class="st1" x1="-897.6" y1="-50.5" x2="-897.6" y2="1849.5"/>
+<text transform="matrix(1 0 0 1 -901.2285 -53.5)" class="st7" style="font-family:'Helvetica-Light';">8</text>
+<line class="st1" x1="-828.6" y1="-50.5" x2="-828.6" y2="1849.5"/>
+<text transform="matrix(1 0 0 1 -832.2285 -53.5)" class="st7" style="font-family:'Helvetica-Light';">6</text>
+<line class="st1" x1="-759.6" y1="-50.5" x2="-759.6" y2="1849.5"/>
+<text transform="matrix(1 0 0 1 -763.2285 -53.5)" class="st7" style="font-family:'Helvetica-Light';">4</text>
+<line class="st1" x1="-691.6" y1="-50.5" x2="-691.6" y2="1849.5"/>
+<text transform="matrix(1 0 0 1 -695.2285 -53.5)" class="st7" style="font-family:'Helvetica-Light';">2</text>
+<line class="st1" x1="-622.6" y1="-50.5" x2="-622.6" y2="1849.5"/>
+<text transform="matrix(1 0 0 1 -626.2285 -53.5)" class="st7" style="font-family:'Helvetica-Light';">0</text>
+<line class="st1" x1="-553.6" y1="-50.5" x2="-553.6" y2="1849.5"/>
+<text transform="matrix(1 0 0 1 -557.2285 -53.5)" class="st7" style="font-family:'Helvetica-Light';">2</text>
+<line class="st1" x1="-484.6" y1="-50.5" x2="-484.6" y2="1849.5"/>
+<text transform="matrix(1 0 0 1 -488.2285 -53.5)" class="st7" style="font-family:'Helvetica-Light';">4</text>
+<line class="st1" x1="-416.6" y1="-50.5" x2="-416.6" y2="1849.5"/>
+<text transform="matrix(1 0 0 1 -420.2285 -53.5)" class="st7" style="font-family:'Helvetica-Light';">6</text>
+<line class="st1" x1="-347.6" y1="-50.5" x2="-347.6" y2="1849.5"/>
+<text transform="matrix(1 0 0 1 -351.2285 -53.5)" class="st7" style="font-family:'Helvetica-Light';">8</text>
+<line class="st2" x1="-623.1" y1="0" x2="-629.1" y2="0"/>
+<text transform="matrix(1 0 0 1 -713.5479 -8)" class="st7" style="font-family:'Helvetica-Light';">Enhanced physical abilities</text>
+<line class="st2" x1="-623.1" y1="208.2" x2="-629.1" y2="208.2"/>
+<text transform="matrix(1 0 0 1 -655.1984 200.1742)" class="st7" style="font-family:'Helvetica-Light';">Objects</text>
+<line class="st2" x1="-623.1" y1="374" x2="-629.1" y2="374"/>
+<text transform="matrix(1 0 0 1 -721.7437 366.0129)" class="st7" style="font-family:'Helvetica-Light';">Supernatural physical abilities</text>
+<line class="st2" x1="-623.1" y1="730.4" x2="-629.1" y2="730.4"/>
+<text transform="matrix(1 0 0 1 -678.6041 722.3613)" class="st7" style="font-family:'Helvetica-Light';">Enhanced skills</text>
+<line class="st2" x1="-623.1" y1="959.7" x2="-629.1" y2="959.7"/>
+<text transform="matrix(1 0 0 1 -692.806 951.7032)" class="st7" style="font-family:'Helvetica-Light';">Energy manipulation</text>
+<line class="st2" x1="-623.1" y1="1189" x2="-629.1" y2="1189"/>
+<text transform="matrix(1 0 0 1 -675.3342 1181.0452)" class="st7" style="font-family:'Helvetica-Light';">Mental powers</text>
+<line class="st2" x1="-623.1" y1="1418.4" x2="-629.1" y2="1418.4"/>
+<text transform="matrix(1 0 0 1 -672.6702 1410.3871)" class="st7" style="font-family:'Helvetica-Light';">Shapeshifting</text>
+<line class="st2" x1="-623.1" y1="1520.7" x2="-629.1" y2="1520.7"/>
+<text transform="matrix(1 0 0 1 -650.5602 1512.7225)" class="st7" style="font-family:'Helvetica-Light';">Divine</text>
+<line class="st2" x1="-623.1" y1="1686.6" x2="-629.1" y2="1686.6"/>
+<text transform="matrix(1 0 0 1 -722.7457 1678.5613)" class="st7" style="font-family:'Helvetica-Light';">Physics or reality manipulation</text>
+<line class="st2" x1="-623.1" y1="1810.1" x2="-629.1" y2="1810.1"/>
+<text transform="matrix(1 0 0 1 -741.3217 1802.0646)" class="st7" style="font-family:'Helvetica-Light';">Elemental and environmental powers</text>
+<path class="st3" d="M-798.1,200.1L-798.1,200.1"/>
+<path class="st3" d="M-448.1,1193.4L-448.1,1193.4"/>
+<rect x="-508" y="1196.4" class="st4" width="119.7" height="118"/>
+<text transform="matrix(1 0 0 1 -507.9441 1222.5741)" class="st6 st7">There is a clear trend</text>
+<text transform="matrix(1 0 0 1 -507.9441 1236.9741)" class="st6 st7">here: Female</text>
+<text transform="matrix(1 0 0 1 -507.9441 1251.3741)" class="st6 st7">characters are more</text>
+<text transform="matrix(1 0 0 1 -507.9441 1265.7742)" class="st6 st7">often given</text>
+<text transform="matrix(1 0 0 1 -507.9441 1280.1741)" class="st6 st7">non-physical,</text>
+<text transform="matrix(1 0 0 1 -507.9441 1294.5741)" class="st6 st7">thought-induced</text>
+<text transform="matrix(1 0 0 1 -507.9441 1308.9741)" class="st6 st7">abilities.</text>
+<text transform="matrix(1 0 0 1 -507.9441 1205.9709)" class="st7" style="font-family:'Helvetica-Bold';">Mind your powers</text>
+<rect x="-854.1" y="21.5" class="st5" width="231" height="16.8"/>
+<rect x="-722.1" y="395.5" class="st5" width="99" height="16.8"/>
+<rect x="-643.1" y="458.5" class="st5" width="20" height="16.8"/>
+<rect x="-636.1" y="500.5" class="st5" width="13" height="16.8"/>
+<rect x="-636.1" y="626.5" class="st5" width="13" height="16.8"/>
+<rect x="-677.1" y="751.9" class="st5" width="54" height="16.8"/>
+<rect x="-676.1" y="772.9" class="st5" width="53" height="16.8"/>
+<rect x="-651.1" y="814.9" class="st5" width="28" height="16.8"/>
+<rect x="-644.1" y="1065.2" class="st5" width="21" height="16.8"/>
+<rect x="-675.1" y="1189.5" class="st5" width="52" height="16.8"/>
+<rect x="-670.1" y="1210.5" class="st5" width="47" height="16.8"/>
+<rect x="-665.1" y="1231.5" class="st5" width="42" height="16.8"/>
+<rect x="-662.1" y="1252.5" class="st5" width="39" height="16.8"/>
+<rect x="-654.1" y="1273.5" class="st5" width="31" height="16.8"/>
+<rect x="-650.1" y="1294.5" class="st5" width="27" height="16.8"/>
+<rect x="-650.1" y="1315.5" class="st5" width="27" height="16.8"/>
+<rect x="-640.1" y="1336.5" class="st5" width="17" height="16.8"/>
+<rect x="-650.1" y="1438.9" class="st5" width="27" height="16.8"/>
+<rect x="-660.1" y="1520.2" class="st5" width="37" height="16.8"/>
+<rect x="-654.1" y="1541.2" class="st5" width="31" height="16.8"/>
+<rect x="-633.1" y="1728.1" class="st5" width="10" height="16.8"/>
+<rect x="-644.1" y="1809.6" class="st5" width="21" height="16.8"/>
+<rect x="-633.1" y="1830.6" class="st5" width="10" height="16.8"/>
+<text transform="matrix(1 0 0 1 -354.0925 13.0806)" class="st6 st7">Strength</text>
+<text transform="matrix(1 0 0 1 -354.0925 13.0806)" class="st6 st7">Strength</text>
+<text transform="matrix(1 0 0 1 -891.1024 34.0806)" class="st6 st7">Agility</text>
+<text transform="matrix(1 0 0 1 -891.1024 34.0806)" class="st6 st7">Agility</text>
+<text transform="matrix(1 0 0 1 -510.0925 55.0806)" class="st6 st7">Stamina</text>
+<text transform="matrix(1 0 0 1 -510.0925 55.0806)" class="st6 st7">Stamina</text>
+<text transform="matrix(1 0 0 1 -523.0925 76.0806)" class="st6 st7">Berserker Strength</text>
+<text transform="matrix(1 0 0 1 -523.0925 76.0806)" class="st6 st7">Berserker Strength</text>
+<text transform="matrix(1 0 0 1 -602.0925 97.0806)" class="st6 st7">Super Eating</text>
+<text transform="matrix(1 0 0 1 -602.0925 97.0806)" class="st6 st7">Super Eating</text>
+<text transform="matrix(1 0 0 1 -604.0925 118.0806)" class="st6 st7">Siphon Abilities</text>
+<text transform="matrix(1 0 0 1 -604.0925 118.0806)" class="st6 st7">Siphon Abilities</text>
+<text transform="matrix(1 0 0 1 -616.0925 139.0806)" class="st6 st7">Longevity</text>
+<text transform="matrix(1 0 0 1 -616.0925 139.0806)" class="st6 st7">Longevity</text>
+<text transform="matrix(1 0 0 1 -417.0925 220.2549)" class="st6 st7">Gadgets</text>
+<text transform="matrix(1 0 0 1 -417.0925 220.2549)" class="st6 st7">Gadgets</text>
+<text transform="matrix(1 0 0 1 -502.0925 241.2549)" class="st6 st7">Power Suit</text>
+<text transform="matrix(1 0 0 1 -502.0925 241.2549)" class="st6 st7">Power Suit</text>
+<text transform="matrix(1 0 0 1 -562.0925 262.2549)" class="st6 st7">Power Item</text>
+<text transform="matrix(1 0 0 1 -562.0925 262.2549)" class="st6 st7">Power Item</text>
+<text transform="matrix(1 0 0 1 -566.0925 283.2549)" class="st6 st7">Implants</text>
+<text transform="matrix(1 0 0 1 -566.0925 283.2549)" class="st6 st7">Implants</text>
+<text transform="matrix(1 0 0 1 -568.0925 304.2549)" class="st6 st7">Insanely Rich</text>
+<text transform="matrix(1 0 0 1 -568.0925 304.2549)" class="st6 st7">Insanely Rich</text>
+<text transform="matrix(1 0 0 1 -424.0925 387.0935)" class="st6 st7">Invulnerability</text>
+<text transform="matrix(1 0 0 1 -424.0925 387.0935)" class="st6 st7">Invulnerability</text>
+<text transform="matrix(1 0 0 1 -756.4363 408.0935)" class="st6 st7">Flight</text>
+<text transform="matrix(1 0 0 1 -756.4363 408.0935)" class="st6 st7">Flight</text>
+<text transform="matrix(1 0 0 1 -582.0925 429.0935)" class="st6 st7">Feral</text>
+<text transform="matrix(1 0 0 1 -582.0925 429.0935)" class="st6 st7">Feral</text>
+<text transform="matrix(1 0 0 1 -587.0925 450.0935)" class="st6 st7">Adaptive</text>
+<text transform="matrix(1 0 0 1 -587.0925 450.0935)" class="st6 st7">Adaptive</text>
+<text transform="matrix(1 0 0 1 -752.1491 471.0935)" class="st6 st7">Pheromone Control</text>
+<text transform="matrix(1 0 0 1 -752.1491 471.0935)" class="st6 st7">Pheromone Control</text>
+<text transform="matrix(1 0 0 1 -599.0925 492.0935)" class="st6 st7">Matter Absorption</text>
+<text transform="matrix(1 0 0 1 -599.0925 492.0935)" class="st6 st7">Matter Absorption</text>
+<text transform="matrix(1 0 0 1 -715.7878 513.0936)" class="st6 st7">Sonic Scream</text>
+<text transform="matrix(1 0 0 1 -715.7878 513.0936)" class="st6 st7">Sonic Scream</text>
+<text transform="matrix(1 0 0 1 -601.0925 534.0936)" class="st6 st7">Enhance Mutation</text>
+<text transform="matrix(1 0 0 1 -601.0925 534.0936)" class="st6 st7">Enhance Mutation</text>
+<text transform="matrix(1 0 0 1 -602.0925 555.0936)" class="st6 st7">Duplication</text>
+<text transform="matrix(1 0 0 1 -602.0925 555.0936)" class="st6 st7">Duplication</text>
+<text transform="matrix(1 0 0 1 -604.0925 576.0936)" class="st6 st7">Flame Breath</text>
+<text transform="matrix(1 0 0 1 -604.0925 576.0936)" class="st6 st7">Flame Breath</text>
+<text transform="matrix(1 0 0 1 -605.0925 597.0936)" class="st6 st7">Heat Vision</text>
+<text transform="matrix(1 0 0 1 -605.0925 597.0936)" class="st6 st7">Heat Vision</text>
+<text transform="matrix(1 0 0 1 -605.0925 618.0936)" class="st6 st7">Genetic Manipulation</text>
+<text transform="matrix(1 0 0 1 -605.0925 618.0936)" class="st6 st7">Genetic Manipulation</text>
+<text transform="matrix(1 0 0 1 -723.1296 639.0936)" class="st6 st7">Prehensile Hair</text>
+<text transform="matrix(1 0 0 1 -723.1296 639.0936)" class="st6 st7">Prehensile Hair</text>
+<text transform="matrix(1 0 0 1 -607.0925 660.0936)" class="st6 st7">Magnetism</text>
+<text transform="matrix(1 0 0 1 -607.0925 660.0936)" class="st6 st7">Magnetism</text>
+<text transform="matrix(1 0 0 1 -467.0925 743.442)" class="st6 st7">Leadership</text>
+<text transform="matrix(1 0 0 1 -467.0925 743.442)" class="st6 st7">Leadership</text>
+<text transform="matrix(1 0 0 1 -723.448 764.442)" class="st6 st7">Intellect</text>
+<text transform="matrix(1 0 0 1 -723.448 764.442)" class="st6 st7">Intellect</text>
+<text transform="matrix(1 0 0 1 -775.7976 785.442)" class="st6 st7">Unarmed Combat</text>
+<text transform="matrix(1 0 0 1 -775.7976 785.442)" class="st6 st7">Unarmed Combat</text>
+<text transform="matrix(1 0 0 1 -585.0925 806.442)" class="st6 st7">Tracking</text>
+<text transform="matrix(1 0 0 1 -585.0925 806.442)" class="st6 st7">Tracking</text>
+<text transform="matrix(1 0 0 1 -741.4636 827.442)" class="st6 st7">Swordsmanship</text>
+<text transform="matrix(1 0 0 1 -741.4636 827.442)" class="st6 st7">Swordsmanship</text>
+<text transform="matrix(1 0 0 1 -591.0925 848.442)" class="st6 st7">Omni-lingual</text>
+<text transform="matrix(1 0 0 1 -591.0925 848.442)" class="st6 st7">Omni-lingual</text>
+<text transform="matrix(1 0 0 1 -611.0925 869.442)" class="st6 st7">Escape Artist</text>
+<text transform="matrix(1 0 0 1 -611.0925 869.442)" class="st6 st7">Escape Artist</text>
+<text transform="matrix(1 0 0 1 -613.0925 890.442)" class="st6 st7">Marksmanship</text>
+<text transform="matrix(1 0 0 1 -613.0925 890.442)" class="st6 st7">Marksmanship</text>
+<text transform="matrix(1 0 0 1 -545.0925 972.7839)" class="st6 st7">Blast Power</text>
+<text transform="matrix(1 0 0 1 -545.0925 972.7839)" class="st6 st7">Blast Power</text>
+<text transform="matrix(1 0 0 1 -586.0925 993.7839)" class="st6 st7">Energy Absorption</text>
+<text transform="matrix(1 0 0 1 -586.0925 993.7839)" class="st6 st7">Energy Absorption</text>
+<text transform="matrix(1 0 0 1 -591.0925 1014.7839)" class="st6 st7">Radiation</text>
+<text transform="matrix(1 0 0 1 -591.0925 1014.7839)" class="st6 st7">Radiation</text>
+<text transform="matrix(1 0 0 1 -592.0925 1035.7838)" class="st6 st7">Force Field</text>
+<text transform="matrix(1 0 0 1 -592.0925 1035.7838)" class="st6 st7">Force Field</text>
+<text transform="matrix(1 0 0 1 -595.0925 1056.7838)" class="st6 st7">Energy-Enhanced Strike</text>
+<text transform="matrix(1 0 0 1 -595.0925 1056.7838)" class="st6 st7">Energy-Enhanced Strike</text>
+<text transform="matrix(1 0 0 1 -731.8093 1077.7838)" class="st6 st7">Light Projection</text>
+<text transform="matrix(1 0 0 1 -731.8093 1077.7838)" class="st6 st7">Light Projection</text>
+<text transform="matrix(1 0 0 1 -601.0925 1098.7838)" class="st6 st7">Electricity Control</text>
+<text transform="matrix(1 0 0 1 -601.0925 1098.7838)" class="st6 st7">Electricity Control</text>
+<text transform="matrix(1 0 0 1 -608.0925 1119.7838)" class="st6 st7">Vibration Wave</text>
+<text transform="matrix(1 0 0 1 -608.0925 1119.7838)" class="st6 st7">Vibration Wave</text>
+<text transform="matrix(1 0 0 1 -727.448 1202.1259)" class="st6 st7">Empathy</text>
+<text transform="matrix(1 0 0 1 -727.448 1202.1259)" class="st6 st7">Empathy</text>
+<text transform="matrix(1 0 0 1 -726.4616 1223.1259)" class="st6 st7">Telepathy</text>
+<text transform="matrix(1 0 0 1 -726.4616 1223.1259)" class="st6 st7">Telepathy</text>
+<text transform="matrix(1 0 0 1 -711.4363 1244.1259)" class="st6 st7">Psychic</text>
+<text transform="matrix(1 0 0 1 -711.4363 1244.1259)" class="st6 st7">Psychic</text>
+<text transform="matrix(1 0 0 1 -705.7761 1265.1259)" class="st6 st7">Psionic</text>
+<text transform="matrix(1 0 0 1 -705.7761 1265.1259)" class="st6 st7">Psionic</text>
+<text transform="matrix(1 0 0 1 -717.7683 1286.1259)" class="st6 st7">Mesmerize</text>
+<text transform="matrix(1 0 0 1 -717.7683 1286.1259)" class="st6 st7">Mesmerize</text>
+<text transform="matrix(1 0 0 1 -721.8015 1307.1259)" class="st6 st7">Precognition</text>
+<text transform="matrix(1 0 0 1 -721.8015 1307.1259)" class="st6 st7">Precognition</text>
+<text transform="matrix(1 0 0 1 -741.1316 1328.1259)" class="st6 st7">Emotion Control</text>
+<text transform="matrix(1 0 0 1 -741.1316 1328.1259)" class="st6 st7">Emotion Control</text>
+<text transform="matrix(1 0 0 1 -726.4675 1349.1259)" class="st6 st7">Illusion Casting</text>
+<text transform="matrix(1 0 0 1 -726.4675 1349.1259)" class="st6 st7">Illusion Casting</text>
+<text transform="matrix(1 0 0 1 -579.0925 1430.4678)" class="st6 st7">Size Manipulation</text>
+<text transform="matrix(1 0 0 1 -579.0925 1430.4678)" class="st6 st7">Size Manipulation</text>
+<text transform="matrix(1 0 0 1 -727.8073 1451.4678)" class="st6 st7">Shape Shifter</text>
+<text transform="matrix(1 0 0 1 -727.8073 1451.4678)" class="st6 st7">Shape Shifter</text>
+<text transform="matrix(1 0 0 1 -741.7859 1532.8032)" class="st6 st7">Divine Powers</text>
+<text transform="matrix(1 0 0 1 -741.7859 1532.8032)" class="st6 st7">Divine Powers</text>
+<text transform="matrix(1 0 0 1 -691.1023 1553.8032)" class="st6 st7">Magic</text>
+<text transform="matrix(1 0 0 1 -691.1023 1553.8032)" class="st6 st7">Magic</text>
+<text transform="matrix(1 0 0 1 -597.0925 1574.8032)" class="st6 st7">Cosmic Awareness</text>
+<text transform="matrix(1 0 0 1 -597.0925 1574.8032)" class="st6 st7">Cosmic Awareness</text>
+<text transform="matrix(1 0 0 1 -602.0925 1595.8032)" class="st6 st7">Siphon Lifeforce</text>
+<text transform="matrix(1 0 0 1 -602.0925 1595.8032)" class="st6 st7">Siphon Lifeforce</text>
+<text transform="matrix(1 0 0 1 -609.0925 1616.8032)" class="st6 st7">Soul Absorption</text>
+<text transform="matrix(1 0 0 1 -609.0925 1616.8032)" class="st6 st7">Soul Absorption</text>
+<text transform="matrix(1 0 0 1 -595.0925 1698.642)" class="st6 st7">Time Travel</text>
+<text transform="matrix(1 0 0 1 -595.0925 1698.642)" class="st6 st7">Time Travel</text>
+<text transform="matrix(1 0 0 1 -595.0925 1719.642)" class="st6 st7">Dimensional Manipulation</text>
+<text transform="matrix(1 0 0 1 -595.0925 1719.642)" class="st6 st7">Dimensional Manipulation</text>
+<text transform="matrix(1 0 0 1 -760.155 1740.642)" class="st6 st7">Darkness Manipulation</text>
+<text transform="matrix(1 0 0 1 -760.155 1740.642)" class="st6 st7">Darkness Manipulation</text>
+<text transform="matrix(1 0 0 1 -722.6746 1822.1451)" class="st6 st7">Water Control</text>
+<text transform="matrix(1 0 0 1 -722.6746 1822.1451)" class="st6 st7">Water Control</text>
+<text transform="matrix(1 0 0 1 -707.4616 1843.1451)" class="st6 st7">Plant Control</text>
+<text transform="matrix(1 0 0 1 -707.4616 1843.1451)" class="st6 st7">Plant Control</text>
+<g>
+	<rect x="128" y="32.1" class="st5" width="231" height="16.8"/>
+	<text transform="matrix(1 0 0 1 90.9539 44.7007)" class="st6 st7">Agility</text>
+</g>
+<g>
+	<rect x="339" y="145.7" class="st5" width="20" height="16.8"/>
+	<text transform="matrix(1 0 0 1 229.9073 158.257)" class="st6 st7">Pheromone Control</text>
+</g>
+<g>
+	<rect x="346" y="174" class="st5" width="13" height="16.8"/>
+	<text transform="matrix(1 0 0 1 266.2685 186.6219)" class="st6 st7">Sonic Scream</text>
+</g>
+<g>
+	<rect x="346" y="202.4" class="st5" width="13" height="16.8"/>
+	<text transform="matrix(1 0 0 1 258.9267 214.9872)" class="st6 st7">Prehensile Hair</text>
+</g>
+<g>
+	<rect x="307" y="60.5" class="st5" width="52" height="16.8"/>
+	<text transform="matrix(1 0 0 1 254.6083 73.098)" class="st6 st7">Empathy</text>
+</g>
+<g>
+	<rect x="312" y="88.9" class="st5" width="47" height="16.8"/>
+	<text transform="matrix(1 0 0 1 255.5948 101.4951)" class="st6 st7">Telepathy</text>
+</g>
+<g>
+	<rect x="328" y="117.3" class="st5" width="31" height="16.8"/>
+	<text transform="matrix(1 0 0 1 264.288 129.8922)" class="st6 st7">Mesmerize</text>
+</g>
+</svg>

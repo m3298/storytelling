@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 694 434.8" style="enable-background:new 0 0 694 434.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#FFFFFF;}
+	.st2{display:none;fill:none;stroke:#000000;}
+	.st3{fill:none;stroke:#000000;}
+	.st4{fill:none;stroke:#888888;stroke-width:0.5;stroke-dasharray:4,4;}
+	.st5{fill:#EEB635;}
+	.st6{fill:#265473;}
+	.st7{fill:none;stroke:#000000;stroke-width:0.3;}
+	.st8{font-family:'SourceSansPro-Regular';}
+	.st9{font-size:12px;}
+	.st10{font-size:16px;}
+	.st11{fill:#B90805;}
+	.st12{font-family:'SourceSansPro-Bold';}
+</style>
+<defs  xmlns="http://www.w3.org/1999/xhtml">
+	<style  type="text/css">
+		<![CDATA[
+* { box-sizing: border-box; }
+a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, p, pre, q, ruby, s, samp, section, small, span, strike, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video { margin: 0px; padding: 0px; border: 0px; font: inherit; vertical-align: baseline; }
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section { display: block; }
+a img { border: none; }
+blockquote { quotes: none; }
+blockquote::after, blockquote::before { content: none; }
+table { border-collapse: collapse; border-spacing: 0px; }
+caption, td, th { text-align: left; font-weight: 400; vertical-align: middle; }
+.hide-accessible { width: 1px; height: 1px; overflow: hidden; position: absolute; }
+.hide-invisible { visibility: hidden; }
+.hide-display { display: none; }
+.skip-to-main { border: none; width: 1px; height: 1px; overflow: hidden; position: absolute; }
+.skip-to-main:focus { width: auto; height: auto; background-color: rgb(239, 239, 239); padding: 0.5em; z-index: 1; }
+.prose { max-width: 40rem; margin: 0px auto; padding: 0px 1rem; }
+.prose__hed { font-weight: 700; }
+.graphic__hed { font-weight: 500; }
+.graphic__dek { margin: 0px 0px 1.5rem; }
+.graphic__chart { width: 100%; }
+.graphic__key { display: flex; flex-wrap: wrap; margin-bottom: 0.5rem; -webkit-box-pack: end; justify-content: flex-end; }
+.graphic__key li { padding: 0px; margin-left: 0.75em; letter-spacing: 0.05em; text-transform: uppercase; font-weight: 700; line-height: 1; }
+.graphic__key li::before { content: ""; display: inline-block; width: 0.8em; height: 0.8em; background-color: rgb(42, 42, 42); margin-right: 0.25em; }
+.tk-canela { font-family: "Publico Text Web", Georgia, Times, serif; }
+.loaded-canela .tk-canela { font-family: "Canela Web", "Publico Text Web", Georgia, Times, serif; }
+.tk-publico { font-family: "Publico Text Web", Georgia, Times, serif; }
+.loaded-publico .tk-publico { font-family: "Publico Text Web", "Publico Text Web", Georgia, Times, serif; }
+.tk-atlas { font-family: "Atlas Grotesk Web", Helvetica, Arial, sans-serif; }
+.loaded-atlas .tk-atlas { font-family: "Atlas Grotesk Web", "Atlas Grotesk Web", Helvetica, Arial, sans-serif; }
+.xxx-small { font-size: 10px; line-height: 1.5; }
+.xx-small { font-size: 11px; line-height: 1.5; }
+.x-small { font-size: 12px; line-height: 1.5; }
+.small { font-size: 14px; line-height: 1.5; }
+.root { font-size: 16px; line-height: 1.7; }
+.medium { font-size: 17px; line-height: 1.7; }
+.large { font-size: 24px; line-height: 1.5; }
+.x-large { font-size: 32px; line-height: 1.5; }
+.xx-large { font-size: 40px; line-height: 1.2; }
+.xxx-large { font-size: 48px; line-height: 1.2; }
+.xxxx-large { font-size: 64px; line-height: 1.2; }
+body { font-feature-settings: "kern", "onum", "liga" 0, "tnum"; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; background-color: rgb(255, 255, 255); color: rgb(42, 42, 42); font-size: 16px; }
+h1 { font-size: 40px; line-height: 1.2; margin-top: 1.5rem; }
+h2 { font-size: 32px; line-height: 1.2; margin-top: 1.5rem; }
+h3 { font-size: 24px; line-height: 1.2; margin-top: 1.5rem; }
+h4 { font-size: 17px; line-height: 1.7; margin-top: 1.5rem; }
+h5 { font-size: 16px; line-height: 1.7; margin-top: 1.5rem; }
+h6 { font-size: 14px; line-height: 1.5; margin-top: 1.5rem; }
+p { margin: 1.5rem 0px; font-size: 16px; line-height: 1.7; }
+a { text-decoration: none; border-bottom: 1px solid rgb(42, 42, 42); color: rgb(42, 42, 42); }
+a:hover, a:visited { color: rgb(42, 42, 42); }
+b, strong { font-weight: 700; }
+em, i { font-style: italic; }
+ul { list-style-type: none; }
+li { font-size: 16px; }
+img, video { display: block; width: 100%; }
+button { cursor: pointer; border: none; outline: 0px; margin: 0px; padding: 0px; font-size: 16px; }
+sub, sup { font-size: 0.75rem; line-height: 0; position: relative; vertical-align: baseline; }
+sup { top: -0.5em; }
+sub { bottom: -0.25em; }
+header { z-index: 1000; position: absolute; top: 0px; left: 0px; width: 100%; }
+header a.logo { display: block; border: none; max-width: 9rem; margin: 1rem auto; }
+header a.logo svg { fill: rgb(42, 42, 42); display: block; width: 100%; }
+a { border-width: 1px; border-color: rgb(185, 8, 5); }
+.color--accent { color: rgb(185, 8, 5); }
+.color--female { color: rgb(238, 182, 53); }
+.color--male { color: rgb(38, 84, 115); }
+.intro { margin: 0px auto; padding: 4rem 1rem 1.5rem; }
+.intro__hed { max-width: 63rem; margin: 0px auto; text-align: center; font-size: 40px; line-height: 1.2; }
+.intro__byline { max-width: 40rem; margin: 0px auto; padding-top: 5rem; padding-bottom: 1.5rem; text-align: center; font-size: 14px; line-height: 1.5; }
+.intro__dek { max-width: 40rem; margin: 0px auto; padding-top: 1.5rem; text-align: center; font-size: 17px; line-height: 1.7; }
+.midTitle { margin-top: 0px; font-weight: 700; }
+main { overflow: hidden; }
+.axis path, .axis line { fill: none; stroke: rgb(0, 0, 0); shape-rendering: crispedges; }
+#powerSplit_graph .axis line { stroke-dasharray: 4px, 4px; stroke: rgb(204, 204, 204); }
+.options { text-align: center; margin-bottom: 1rem; }
+.options p { margin: 0px; text-transform: uppercase; font-weight: 700; letter-spacing: 0.05em; font-size: 12px; padding-top: 20px; }
+.btn { background-color: rgb(204, 204, 204); border: 1px solid rgb(255, 255, 255); color: rgb(255, 255, 255); padding: 0.25em 0.5em; text-transform: uppercase; font-weight: 700; letter-spacing: 0.05em; font-size: 12px; transition: background-color 250ms ease 0s; }
+#descendingFemale:hover { background-color: rgb(238, 182, 53); }
+#descendingMale:hover { background-color: rgb(38, 84, 115); }
+.activeFemale { background-color: rgb(238, 182, 53); }
+.activeMale { background-color: rgb(38, 84, 115); }
+.gifs { padding: 1rem; margin: 5rem auto 0px; width: 10rem; }
+.gif_last { padding: 1rem; margin: 1rem auto 0px; width: 10rem; }
+.gifs:first-child { margin-top: 0px; }
+.gifs img { width: 100%; display: block; }
+.intro .gifs img { margin-left: 1rem; }
+img.displayed_still { display: block; margin-left: auto; margin-right: auto; width: 125px; }
+.legend { display: none; }
+#tooltip { position: absolute; text-align: left; height: auto; padding: 10px; background: white; pointer-events: none; z-index: 100; box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 4px 2px; }
+#tooltip.hidden { display: none; }
+#tooltip p { display: block; margin: 0px; padding: 0px; font-size: 11px; }
+#tooltip .difference { font-size: 13px; font-weight: 500; }
+#tooltip .gender { height: 100%; overflow: hidden; }
+#tooltip span { width: 50%; float: left; }
+#tooltip .number { text-align: right; }
+.dimChart__vis, .graphic__vis, .powerSplit__vis, .genNames__vis, .teams__vis, .career_chart__vis { position: relative; z-index: 1; max-width: 900px; margin-left: auto; margin-right: auto; }
+.genNames__vis svg { position: relative; display: block; margin-left: auto; margin-right: auto; }
+.career_chart__vis svg { position: relative; display: block; margin-left: auto; margin-right: auto; }
+.powerSplit__vis svg { position: relative; display: block; margin-left: auto; margin-right: auto; }
+.dimChart__vis svg { position: relative; display: block; margin-left: auto; margin-right: auto; }
+.graphic__vis svg { position: relative; display: block; margin-left: auto; margin-right: auto; }
+.teams__vis svg { position: relative; display: block; margin-left: auto; margin-right: auto; }
+.chartBody { position: relative; }
+.paddedIntro { margin: 0px auto; width: 100%; max-width: 40rem; text-align: left; }
+.paddedBody { margin: 0px auto; width: 100%; max-width: 40rem; text-align: left; }
+.chartHed { position: relative; margin: 0px auto; width: 90%; max-width: 40rem; padding-top: 10px; }
+.chartTitle { margin-bottom: 0.5rem; padding-bottom: 0px; font-weight: 500; line-height: 1.2; }
+.chartText { padding-top: 0px; margin-top: 0px; }
+.graphicWrapper { margin-right: auto; margin-left: auto; position: relative; width: 100%; max-width: 640px; }
+.note p { margin-top: 0px; margin-bottom: 1rem; }
+.note { position: relative; margin-left: auto; margin-right: auto; width: 90%; max-width: 40rem; margin-top: 1rem; font-weight: 300; padding: 0.5rem; border-top: 1px solid rgb(204, 204, 204); }
+.note .medium { margin-bottom: 0.5rem; }
+.chart__labels { height: 100%; overflow: hidden; max-width: 640px; margin: 0px auto 0.5rem; }
+.chart__labels .label_axis { font-weight: bold; width: 50%; float: left; margin: 0px; text-align: center; }
+#pts_label { margin-bottom: 0px; text-align: center; font-weight: 400; font-size: 12px; }
+#outliers_back { display: none; }
+#powers_radius, #norm_radius { float: right; }
+#sizeBy { border: 1px solid rgb(255, 255, 255); border-radius: 3px; color: rgb(24, 42, 55); padding: 0.25em 0.5em; text-transform: uppercase; font-weight: 700; letter-spacing: 0.05em; font-size: 12px; float: right; }
+#yAxis_genName { display: none; }
+.label_axis { font-weight: 500; font-size: 12px; text-transform: uppercase; letter-spacing: 0.05em; }
+.power_bar { cursor: pointer; stroke: rgba(0, 0, 0, 0.5); stroke-width: 0.5px; }
+.bar__label { font-weight: 500; font-size: 9px; letter-spacing: 0.05em; fill: rgb(136, 136, 136); cursor: pointer; }
+.bar__label--bg { fill: none; stroke: white; stroke-width: 3px; }
+.domain { display: none; }
+.tick { font-weight: 300; font-size: 12px; text-transform: uppercase; letter-spacing: 0.05em; z-index: 100; }
+line.between { stroke: rgb(136, 136, 136); stroke-dasharray: 4px, 4px; stroke-width: 0.5px; }
+line.between_ex { stroke: rgb(136, 136, 136); stroke-dasharray: 4px, 4px; stroke-width: 0.5px; }
+.genDot { cursor: pointer; stroke-width: 0.5px; stroke: rgba(0, 0, 0, 0.5); }
+.genDot_ex { cursor: pointer; stroke-width: 0.5px; stroke: rgba(0, 0, 0, 0.5); }
+.genDot.is-active { stroke-width: 2px; }
+#swarm { max-width: 640px; width: 100%; margin-right: auto; margin-left: auto; }
+#stick { display: none; position: fixed; top: 50%; right: 0px; z-index: 100; max-width: 250px; max-height: 300px; font-size: 12px; transform: translate(100%, -50%); transition: transform 500ms ease 0s, -webkit-transform 500ms ease 0s; }
+#stick.is-visible { transform: translate(0px, -50%); }
+#stick2 { display: none; position: fixed; top: 50%; right: 0px; z-index: 100; max-width: 250px; max-height: 300px; font-size: 12px; transform: translate(100%, -50%); transition: transform 500ms ease 0s, -webkit-transform 500ms ease 0s; }
+#stick2.is-visible { transform: translate(0px, -50%); }
+#titleInsert { color: rgb(185, 8, 5); text-transform: uppercase; letter-spacing: 0.05em; font-size: 0.8rem; font-weight: 700; }
+#titleInsert_powers { color: rgb(185, 8, 5); text-transform: uppercase; letter-spacing: 0.05em; font-size: 0.8rem; font-weight: 700; }
+.sticky_parent { height: 50px; line-height: 50px; margin-top: 10px; font-size: 30px; padding-left: 10px; position: sticky; top: 0px; }
+.sidebar { position: sticky; top: 0px; }
+.annotation-group { font-size: 12px; }
+.remaining-content span { display: none; }
+.bubbles { width: 100%; margin-right: 1%; }
+#textInsert_names { font-size: 10px; }
+.bubble { position: relative; background-color: rgb(255, 255, 255); border-radius: 12px; box-shadow: rgba(0, 0, 0, 0.3) 2px 2px 2px; display: inline-block; vertical-align: top; border: 2px solid rgb(0, 0, 0); margin: 20px; }
+.bubble.arrow::before, .bubble.arrow::after { position: absolute; background-color: rgb(255, 255, 255); content: " "; display: block; height: 18px; width: 24px; left: 20px; bottom: -10px; transform: rotate(-45deg) skew(-45deg); }
+.bubble.arrow::before { background-color: transparent; box-shadow: rgba(0, 0, 0, 0.3) 2px 2px 2px; width: 30px; }
+.bubble.arrow::after { bottom: -8px; border-style: solid; border-color: rgb(0, 0, 0); border-image: initial; border-width: 0px 4px 3px; }
+.bubble.br::before, .bubble.br::after { left: auto; right: 120px; transform: rotate(45deg) skew(45deg); }
+.bubble.br::before { bottom: -10px; width: 24px; right: 120px; }
+:root { --annotation-color: grey; }
+.annotation path { stroke: var(--annotation-color); fill: none; }
+.annotation text, .annotation .annotation-connector .connector-dot, .annotation path.connector-arrow, .annotation.callout.rect path.subject { fill: var(--annotation-color); }
+.annotation-note-title { font-weight: bold; }
+.annotation-note-bg { fill: white; }
+.annotation.callout.rect path.subject { fill-opacity: 0.1; }
+.annotation.badge path.subject-pointer, .annotation.badge path.subject { fill: var(--annotation-color); stroke-width: 3px; stroke-linecap: round; }
+.annotation.badge path.subject-ring { fill: white; stroke-width: 3px; }
+.annotation.badge .badge-text { fill: white; font-size: 0.7em; }
+.editable .annotation-subject, .editable .annotation-note { cursor: move; }
+circle.handle { stroke-dasharray: 5; stroke: var(--annotation-color); fill: rgba(255, 255, 255, 0.2); cursor: move; stroke-opacity: 0.4; }
+.pudding-footer { margin: 0px; font-weight: 400; font-style: normal; font-size: 16px; line-height: 1.6; font-family: "Atlas Grotesk Web", "Whitney SSm A", "Whitney SSm B", Helvetica, Arial, sans-serif; background-color: rgb(239, 239, 239); color: rgb(42, 42, 42); padding-top: 1em; box-sizing: border-box; }
+.pudding-footer * { box-sizing: border-box; }
+.pudding-footer p { padding: 0px; margin: 0px; font-size: 1em; line-height: 1.6; max-width: 100%; }
+.pudding-footer .btn { background-color: rgb(221, 221, 221); color: rgb(42, 42, 42); font-weight: 500; font-size: 1rem; border-radius: 3px; letter-spacing: 0.05em; text-transform: uppercase; padding: 0.5rem 0.75rem; cursor: pointer; user-select: none; outline: 0px; }
+.pudding-footer .btn--primary { background-color: rgb(235, 87, 87); color: rgb(255, 255, 255); }
+.pudding-footer .btn--dark { background-color: rgb(42, 42, 42); color: rgb(255, 255, 255); }
+.pudding-footer .xxx-small { font-size: 10px; line-height: 1.5; }
+.pudding-footer .xx-small { font-size: 12px; line-height: 1.5; }
+.pudding-footer .x-small { font-size: 14px; line-height: 1.5; }
+.pudding-footer .small { font-size: 16px; line-height: 1.5; }
+.pudding-footer .medium { font-size: 18px; line-height: 1.7; }
+.pudding-footer .large { font-size: 24px; line-height: 1.5; }
+.pudding-footer .x-large { font-size: 32px; line-height: 1.2; }
+.pudding-footer .xx-large { font-size: 48px; line-height: 1.2; }
+.pudding-footer .xxx-large { font-size: 64px; line-height: 1.2; }
+.pudding-footer .footer-social { padding: 1em; max-width: 40em; margin: 0px auto; text-align: center; font-size: 1em; }
+.pudding-footer .footer-social__preach { display: block; padding: 0px; margin-right: 0.5em; }
+.pudding-footer .footer-social__preach strong { font-weight: 700; }
+.pudding-footer .footer-social__icons { display: inline-block; vertical-align: middle; margin-top: 1em; overflow: hidden; zoom: 1; }
+.pudding-footer .footer-social__icon { float: left; margin: 0px 0.5em 0px 0px; padding: 0px; line-height: 1; display: inline-block; }
+.pudding-footer .footer-recirc { padding: 1em; font-size: 1em; }
+.pudding-footer .footer-recirc__hed { font-family: "Atlas Grotesk Web", "Whitney SSm A", "Whitney SSm B", Helvetica, Arial, sans-serif; text-align: center; color: rgb(26, 26, 26); font-weight: 700; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 1rem; }
+.pudding-footer .footer-recirc__articles { margin: 0px auto; max-width: 50em; display: flex; flex-wrap: wrap; justify-content: center; }
+.pudding-footer .footer-recirc__article { margin: 0px; padding: 1em; display: block; text-align: left; text-decoration: none; color: rgb(42, 42, 42); font-size: 0.8em; width: 100%; max-width: 19em; border: none; }
+.pudding-footer .footer-recirc__article p { padding: 0px; }
+.pudding-footer .footer-recirc .article__headline { font-family: "Atlas Grotesk Web", "Whitney SSm A", "Whitney SSm B", Helvetica, Arial, sans-serif; font-weight: 400; margin-top: 1em; }
+.pudding-footer .footer-recirc .article__img { width: 100%; height: 8em; background-position: center center; background-repeat: no-repeat; background-size: cover; }
+.pudding-footer .footer-support { width: 100%; max-width: 30rem; margin: 0px auto; position: relative; padding: 1rem; display: flex; justify-content: space-between; flex-direction: column; }
+.pudding-footer .footer-support p { margin: 0px 0px 0.5rem; text-align: center; }
+.pudding-footer .footer-support .support__item { margin-bottom: 1.5rem; }
+.pudding-footer .footer-support .support__patreon .btn { display: block; margin: 0px auto; width: 9rem; background-color: rgb(42, 42, 42); font-size: 0.65rem; line-height: 1.2; }
+.pudding-footer .footer-support .support__patreon a { border: none; display: block; text-decoration: none; }
+.pudding-footer .footer-support .patreon__content { text-align: center; }
+.pudding-footer .footer-support .subscribe__newsletter form { display: flex; justify-content: center; }
+.pudding-footer .footer-support .subscribe__newsletter .newsletter__input { display: block; border: 1px solid rgb(170, 170, 170); border-radius: 3px; font-size: 0.65rem; background-color: rgb(255, 255, 255); color: rgb(72, 72, 72); height: 1.75rem; padding: 0.5rem; width: 12rem; background-size: 35px 162px; background-image: url("https://pudding.cool/common/assets/misc/icon.png"); background-position: right -43px; background-repeat: no-repeat; }
+.pudding-footer .footer-support .subscribe__newsletter .newsletter__input::-webkit-input-placeholder { color: rgb(136, 136, 136); font-family: "Atlas Grotesk Web", Helvetica, sans-serif; }
+.pudding-footer .footer-support .subscribe__newsletter .newsletter__button { border: none; -webkit-appearance: none; outline: 0px; margin-left: 0.5rem; font-size: 0.65rem; text-decoration: none; }
+.pudding-footer .footer-company { padding: 1em; background: rgb(255, 255, 255); color: rgb(42, 42, 42); display: flex; flex-wrap: wrap; font-size: 1em; }
+.pudding-footer .footer-company a { color: rgb(42, 42, 42); text-decoration: none; border-bottom: 1px dotted rgb(26, 26, 26); }
+.pudding-footer .footer-company p, .pudding-footer .footer-company ul { margin: 0px; font-weight: 400; font-size: 0.8em; line-height: 1.6; list-style-type: none; }
+.pudding-footer .footer-company__wrapper { max-width: 60em; margin: 0px auto; display: flex; flex-wrap: wrap; justify-content: space-between; overflow: hidden; zoom: 1; }
+.pudding-footer .footer-company__left { max-width: 25em; padding: 0px 1em; }
+.pudding-footer .footer-company__description { max-width: 25em; padding: 1em 0px; }
+.pudding-footer .footer-company__right { max-width: 25em; padding: 0px 1em; text-align: left; margin: 0px auto; }
+.pudding-footer .footer-company svg { fill: rgb(0, 0, 0); height: 16px; width: 16px; }
+.pudding-footer .footer-company ul { max-width: 40em; margin: 1em auto; display: inline-block; overflow: hidden; zoom: 1; }
+.pudding-footer .footer-company ul li { margin-right: 1.5em; float: left; font-size: 12px; }
+.pudding-footer .footer-company ul li a { text-transform: uppercase; text-decoration: none; border-bottom: none; font-weight: 400; }
+.pudding-footer .footer-company__trademark { width: 100%; }
+.pudding-footer .footer-company__trademark p { font-family: "Atlas Grotesk Web", "Whitney SSm A", "Whitney SSm B", Helvetica, Arial, sans-serif; margin: 3em auto 1em; width: 100%; text-align: center; font-weight: 500; text-transform: uppercase; letter-spacing: 0.05em; padding: 0px 1em; color: rgb(136, 136, 136); font-size: 0.8em; }
+.pudding-footer .footer-company__trademark span { font-weight: 400; }
+.fb_hidden { position: absolute; top: -10000px; z-index: 10001; }
+.fb_reposition { overflow: hidden; position: relative; }
+.fb_invisible { display: none; }
+.fb_reset { background: none; border: 0px; border-spacing: 0px; color: rgb(0, 0, 0); cursor: auto; direction: ltr; font-family: "lucida grande", tahoma, verdana, arial, sans-serif; font-size: 11px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 1; margin: 0px; overflow: visible; padding: 0px; text-align: left; text-decoration: none; text-indent: 0px; text-shadow: none; text-transform: none; visibility: visible; white-space: normal; word-spacing: normal; }
+.fb_animate { animation: 0.3s ease 0s 1 normal forwards running fb_transform; }
+.fb_dialog { background: rgba(82, 82, 82, 0.7); position: absolute; top: -10000px; z-index: 10001; }
+.fb_dialog_advanced { border-radius: 8px; padding: 10px; }
+.fb_dialog_content { background: rgb(255, 255, 255); color: rgb(55, 55, 55); }
+.fb_dialog_close_icon { background: url("https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png") 0px 0px no-repeat scroll transparent; cursor: pointer; display: block; height: 15px; position: absolute; right: 18px; top: 17px; width: 15px; }
+.fb_dialog_mobile .fb_dialog_close_icon { left: 5px; right: auto; top: 5px; }
+.fb_dialog_padding { background-color: transparent; position: absolute; width: 1px; z-index: -1; }
+.fb_dialog_close_icon:hover { background: url("https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png") 0px -15px no-repeat scroll transparent; }
+.fb_dialog_close_icon:active { background: url("https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png") 0px -30px no-repeat scroll transparent; }
+.fb_dialog_iframe { line-height: 0; }
+.fb_dialog_content .dialog_title { background: rgb(109, 132, 180); border: 1px solid rgb(54, 88, 153); color: rgb(255, 255, 255); font-size: 14px; font-weight: bold; margin: 0px; }
+body.fb_hidden { height: 100%; left: 0px; margin: 0px; overflow: visible; position: absolute; top: -10000px; transform: none; width: 100%; }
+.fb_dialog.fb_dialog_mobile.loading { background: url("https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif") 50% 50% no-repeat white; min-height: 100%; min-width: 100%; overflow: hidden; position: absolute; top: 0px; z-index: 10001; }
+.fb_dialog.fb_dialog_mobile.loading.centered { background: none; height: auto; min-height: initial; min-width: initial; width: auto; }
+.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner { width: 100%; }
+.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content { background: none; }
+.loading.centered #fb_dialog_loader_close { clear: both; color: rgb(255, 255, 255); display: block; font-size: 18px; padding-top: 20px; }
+#fb-root #fb_dialog_ipad_overlay { background: rgba(0, 0, 0, 0.4); bottom: 0px; left: 0px; min-height: 100%; position: absolute; right: 0px; top: 0px; width: 100%; z-index: 10000; }
+#fb-root #fb_dialog_ipad_overlay.hidden { display: none; }
+.fb_dialog.fb_dialog_mobile.loading iframe { visibility: hidden; }
+.fb_dialog_mobile .fb_dialog_iframe { position: sticky; top: 0px; }
+.fb_dialog_content .dialog_header { border-bottom: 1px solid rgb(4, 59, 135); border-top-color: rgb(4, 59, 135); border-right-color: rgb(4, 59, 135); border-left-color: rgb(4, 59, 135); box-shadow: white 0px 1px 1px -1px inset; color: rgb(255, 255, 255); font: bold 14px Helvetica, sans-serif; text-overflow: ellipsis; text-shadow: rgba(0, 30, 84, 0.298) 0px -1px 0px; vertical-align: middle; white-space: nowrap; }
+.fb_dialog_content .dialog_header table { height: 43px; width: 100%; }
+.fb_dialog_content .dialog_header td.header_left { font-size: 12px; padding-left: 5px; vertical-align: middle; width: 60px; }
+.fb_dialog_content .dialog_header td.header_right { font-size: 12px; padding-right: 5px; vertical-align: middle; width: 60px; }
+.fb_dialog_content .touchable_button { background-clip: padding-box; border: 1px solid rgb(41, 72, 125); border-radius: 3px; display: inline-block; line-height: 18px; margin-top: 3px; max-width: 85px; padding: 4px 12px; position: relative; }
+.fb_dialog_content .dialog_header .touchable_button input { background: none; border: none; color: rgb(255, 255, 255); font: bold 12px Helvetica, sans-serif; margin: 2px -12px; padding: 2px 6px 3px; text-shadow: rgba(0, 30, 84, 0.298) 0px -1px 0px; }
+.fb_dialog_content .dialog_header .header_center { color: rgb(255, 255, 255); font-size: 16px; font-weight: bold; line-height: 18px; text-align: center; vertical-align: middle; }
+.fb_dialog_content .dialog_content { background: url("https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif") 50% 50% no-repeat; border-width: 0px 1px; border-right-style: solid; border-left-style: solid; border-right-color: rgb(74, 74, 74); border-left-color: rgb(74, 74, 74); border-image: initial; border-bottom-style: initial; border-bottom-color: initial; border-top-style: initial; border-top-color: initial; height: 150px; }
+.fb_dialog_content .dialog_footer { background: rgb(245, 246, 247); border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(74, 74, 74) rgb(74, 74, 74); border-image: initial; height: 40px; }
+#fb_dialog_loader_close { float: left; }
+.fb_dialog.fb_dialog_mobile .fb_dialog_close_button { text-shadow: rgba(0, 30, 84, 0.298) 0px -1px 0px; }
+.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon { visibility: hidden; }
+#fb_dialog_loader_spinner { animation: 1.2s linear 0s infinite normal none running rotateSpinner; background-color: transparent; background-image: url("https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png"); background-position: 50% 50%; background-repeat: no-repeat; height: 24px; width: 24px; }
+.fb_iframe_widget { display: inline-block; position: relative; }
+.fb_iframe_widget span { display: inline-block; position: relative; text-align: justify; }
+.fb_iframe_widget iframe { position: absolute; }
+.fb_iframe_widget_fluid_desktop, .fb_iframe_widget_fluid_desktop span, .fb_iframe_widget_fluid_desktop iframe { max-width: 100%; }
+.fb_iframe_widget_fluid_desktop iframe { min-width: 220px; position: relative; }
+.fb_iframe_widget_lift { z-index: 1; }
+.fb_iframe_widget_fluid { display: inline; }
+.fb_iframe_widget_fluid span { width: 100%; }
+.__burner-mail-euvifbo { position: relative !important; }
+body #ithawzgr.uiebjxu.__burner-mail-container { position: absolute !important; top: 0px !important; left: 0px !important; width: 181.312px !important; height: 28px !important; z-index: auto !important; pointer-events: none !important; }
+.__burner-mail-kngjorh { position: relative !important; }
+body #juwki.dezz.__burner-mail-container { position: absolute !important; top: 0px !important; left: 0px !important; width: 181.312px !important; height: 28px !important; z-index: auto !important; pointer-events: none !important; }
+			]]>
+	</style>
+</defs>
+<path class="st0" d="M-600.4,123.8h-18.9"/>
+<path class="st0" d="M-558.4,121.8c1.1,0,2,0.9,2,2s-0.9,2-2,2s-2-0.9-2-2S-559.5,121.8-558.4,121.8z"/>
+<g transform="translate(-117.484375, 3)">
+	<rect x="-619.3" y="123.8" class="st1" width="117.5" height="103.5"/>
+	<text transform="matrix(1 0 0 1 -619.3004 149.9633)" class="st8 st10">&apos;Girl&apos; is the</text>
+	<text transform="matrix(1 0 0 1 -619.3004 164.3633)" class="st8 st10">third-most common</text>
+	<text transform="matrix(1 0 0 1 -619.3004 178.7634)" class="st8 st10">gendered name for a</text>
+	<text transform="matrix(1 0 0 1 -619.3004 193.1633)" class="st8 st10">female character.</text>
+	<text transform="matrix(1 0 0 1 -619.3004 207.5634)" class="st8 st10">&apos;Boy&apos; only shows up</text>
+	<text transform="matrix(1 0 0 1 -619.3004 221.9634)" class="st8 st10">sixth for males.</text>
+	<text transform="matrix(1 0 0 1 -619.3004 133.4462)" class="st8 st10">Girls, not women</text>
+</g>
+<path class="st0" d="M-736.8,123.8h117.5"/>
+<path class="st0" d="M-175.6,211.5l-17.4,50"/>
+<g transform="translate(-116.21875, 3)">
+	<rect x="-193" y="261.5" class="st1" width="116.2" height="103.6"/>
+	<text transform="matrix(1 0 0 1 -193.0244 287.7416)" class="st8 st10">A full 30% of male</text>
+	<text transform="matrix(1 0 0 1 -193.0244 302.1416)" class="st8 st10">characters with</text>
+	<text transform="matrix(1 0 0 1 -193.0244 316.5416)" class="st8 st10">gendered names get</text>
+	<text transform="matrix(1 0 0 1 -193.0244 330.9416)" class="st8 st10">&apos;man&apos; in their name.</text>
+	<text transform="matrix(1 0 0 1 -193.0244 345.3416)" class="st8 st10">That number is only</text>
+	<text transform="matrix(1 0 0 1 -193.0244 359.7416)" class="st8 st10">6% for &apos;woman&apos;.</text>
+	<text transform="matrix(1 0 0 1 -193.0244 271.1385)" class="st8 st10">Men, not boys</text>
+</g>
+<path class="st0" d="M-309.2,261.5H-193"/>
+<path class="st2" d="M-175.8,14v6.5h-530V14"/>
+<line class="st3" x1="-183.8" y1="20" x2="-183.8" y2="14"/>
+<text transform="matrix(1 0 0 1 -196.7309 11)" class="st8 st10">30%</text>
+<line class="st3" x1="-270.8" y1="20" x2="-270.8" y2="14"/>
+<text transform="matrix(1 0 0 1 -283.7259 11)" class="st8 st10">20%</text>
+<line class="st3" x1="-357.8" y1="20" x2="-357.8" y2="14"/>
+<text transform="matrix(1 0 0 1 -370.721 11)" class="st8 st10">10%</text>
+<line class="st3" x1="-444.8" y1="20" x2="-444.8" y2="14"/>
+<text transform="matrix(1 0 0 1 -454.0801 11)" class="st8 st10">0%</text>
+<line class="st3" x1="-531.8" y1="20" x2="-531.8" y2="14"/>
+<text transform="matrix(1 0 0 1 -544.7112 11)" class="st8 st10">10%</text>
+<line class="st3" x1="-618.8" y1="20" x2="-618.8" y2="14"/>
+<text transform="matrix(1 0 0 1 -631.7063 11)" class="st8 st10">20%</text>
+<line class="st3" x1="-705.8" y1="20" x2="-705.8" y2="14"/>
+<text transform="matrix(1 0 0 1 -718.7014 11)" class="st8 st10">30%</text>
+<line class="st4" x1="-561" y1="80" x2="-382.9" y2="80"/>
+<line class="st4" x1="-556.5" y1="101.9" x2="-277.6" y2="101.9"/>
+<line class="st4" x1="-555.3" y1="123.8" x2="-400.8" y2="123.8"/>
+<line class="st4" x1="-554.2" y1="145.8" x2="-370.6" y2="145.8"/>
+<line class="st4" x1="-505.4" y1="167.7" x2="-505.4" y2="167.7"/>
+<line class="st4" x1="-495.2" y1="189.6" x2="-427.4" y2="189.6"/>
+<line class="st4" x1="-495.2" y1="211.5" x2="-176.3" y2="211.5"/>
+<line class="st4" x1="-492.9" y1="233.5" x2="-430.5" y2="233.5"/>
+<line class="st4" x1="-491.8" y1="255.4" x2="-427.4" y2="255.4"/>
+<line class="st4" x1="-487.3" y1="277.3" x2="-430.5" y2="277.3"/>
+<line class="st4" x1="-478.2" y1="299.2" x2="-478.2" y2="299.2"/>
+<line class="st4" x1="-462.3" y1="321.2" x2="-462.3" y2="321.2"/>
+<line class="st4" x1="-457.8" y1="343.1" x2="-431" y2="343.1"/>
+<line class="st4" x1="-455.5" y1="365" x2="-455.5" y2="365"/>
+<line class="st4" x1="-454.4" y1="386.9" x2="-423.8" y2="386.9"/>
+<line class="st4" x1="-453.2" y1="408.8" x2="-443.8" y2="408.8"/>
+<line class="st4" x1="-452.1" y1="430.8" x2="-433" y2="430.8"/>
+<line class="st4" x1="-451" y1="452.7" x2="-438.2" y2="452.7"/>
+<line class="st4" x1="-451" y1="474.6" x2="-439.7" y2="474.6"/>
+<line class="st4" x1="-448.7" y1="496.5" x2="-438.2" y2="496.5"/>
+<line class="st4" x1="-448.7" y1="518.5" x2="-442.8" y2="518.5"/>
+<line class="st4" x1="-447.6" y1="540.4" x2="-441.7" y2="540.4"/>
+<line class="st4" x1="-443.8" y1="408.8" x2="-453.2" y2="408.8"/>
+<line class="st4" x1="-442.8" y1="518.5" x2="-448.7" y2="518.5"/>
+<line class="st4" x1="-441.7" y1="540.4" x2="-447.6" y2="540.4"/>
+<line class="st4" x1="-440.7" y1="562.3" x2="-440.7" y2="562.3"/>
+<line class="st4" x1="-439.7" y1="474.6" x2="-451" y2="474.6"/>
+<line class="st4" x1="-438.2" y1="496.5" x2="-448.7" y2="496.5"/>
+<line class="st4" x1="-438.2" y1="452.7" x2="-451" y2="452.7"/>
+<line class="st4" x1="-433" y1="430.8" x2="-452.1" y2="430.8"/>
+<line class="st4" x1="-432.5" y1="584.2" x2="-432.5" y2="584.2"/>
+<line class="st4" x1="-431" y1="343.1" x2="-457.8" y2="343.1"/>
+<line class="st4" x1="-430.5" y1="233.5" x2="-492.9" y2="233.5"/>
+<line class="st4" x1="-430.5" y1="277.3" x2="-487.3" y2="277.3"/>
+<line class="st4" x1="-427.4" y1="189.6" x2="-495.2" y2="189.6"/>
+<line class="st4" x1="-427.4" y1="255.4" x2="-491.8" y2="255.4"/>
+<line class="st4" x1="-423.8" y1="386.9" x2="-454.4" y2="386.9"/>
+<line class="st4" x1="-420.2" y1="606.2" x2="-420.2" y2="606.2"/>
+<line class="st4" x1="-400.8" y1="123.8" x2="-555.3" y2="123.8"/>
+<line class="st4" x1="-385" y1="628.1" x2="-385" y2="628.1"/>
+<line class="st4" x1="-382.9" y1="80" x2="-561" y2="80"/>
+<line class="st4" x1="-370.6" y1="145.8" x2="-554.2" y2="145.8"/>
+<line class="st4" x1="-277.6" y1="101.9" x2="-556.5" y2="101.9"/>
+<line class="st4" x1="-176.3" y1="211.5" x2="-495.2" y2="211.5"/>
+<circle class="st5" cx="-561" cy="80" r="10.8"/>
+<circle class="st5" cx="-556.5" cy="101.9" r="8"/>
+<circle class="st5" cx="-555.3" cy="123.8" r="8"/>
+<circle class="st5" cx="-554.2" cy="145.8" r="8"/>
+<circle class="st5" cx="-505.4" cy="167.7" r="8"/>
+<circle class="st5" cx="-495.2" cy="189.6" r="8"/>
+<circle class="st5" cx="-495.2" cy="211.5" r="8"/>
+<circle class="st5" cx="-492.9" cy="233.5" r="8"/>
+<circle class="st5" cx="-491.8" cy="255.4" r="8"/>
+<circle class="st5" cx="-487.3" cy="277.3" r="8"/>
+<circle class="st5" cx="-478.2" cy="299.2" r="8"/>
+<circle class="st5" cx="-462.3" cy="321.2" r="8"/>
+<circle class="st5" cx="-457.8" cy="343.1" r="8"/>
+<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 -742.8392 -143.1028)" class="st5" cx="-455.5" cy="365" rx="8" ry="8"/>
+<circle class="st5" cx="-454.4" cy="386.9" r="8"/>
+<circle class="st5" cx="-453.2" cy="408.8" r="8"/>
+<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 -804.9015 -84.5099)" class="st5" cx="-452.1" cy="430.8" rx="8" ry="8"/>
+<circle class="st5" cx="-451" cy="452.7" r="8"/>
+<circle class="st5" cx="-451" cy="474.6" r="8"/>
+<circle class="st5" cx="-448.7" cy="496.5" r="8"/>
+<circle class="st5" cx="-448.7" cy="518.5" r="8"/>
+<circle class="st5" cx="-447.6" cy="540.4" r="8"/>
+<circle class="st6" cx="-443.8" cy="408.8" r="8"/>
+<circle class="st6" cx="-442.8" cy="518.5" r="8"/>
+<circle class="st6" cx="-441.7" cy="540.4" r="8"/>
+<circle class="st6" cx="-440.7" cy="562.3" r="8"/>
+<circle class="st6" cx="-439.7" cy="474.6" r="8"/>
+<circle class="st6" cx="-438.2" cy="496.5" r="8"/>
+<circle class="st6" cx="-438.2" cy="452.7" r="8"/>
+<circle class="st6" cx="-433" cy="430.8" r="8"/>
+<circle class="st6" cx="-432.5" cy="584.2" r="8"/>
+<circle class="st6" cx="-431" cy="343.1" r="8"/>
+<circle class="st6" cx="-430.5" cy="233.5" r="8"/>
+<circle class="st6" cx="-430.5" cy="277.3" r="8"/>
+<circle class="st6" cx="-427.4" cy="189.6" r="8"/>
+<circle class="st6" cx="-427.4" cy="255.4" r="8"/>
+<circle class="st6" cx="-423.8" cy="386.9" r="8"/>
+<circle class="st6" cx="-420.2" cy="606.2" r="8"/>
+<circle class="st6" cx="-400.8" cy="123.8" r="8"/>
+<circle class="st6" cx="-385" cy="628.1" r="8"/>
+<circle class="st6" cx="-382.9" cy="80" r="8"/>
+<circle class="st6" cx="-370.6" cy="145.8" r="8"/>
+<circle class="st6" cx="-277.6" cy="101.9" r="8"/>
+<circle class="st6" cx="-176.3" cy="211.5" r="8"/>
+<text transform="matrix(1 0 0 1 -594.3459 84)" class="st8 st10">lady</text>
+<text transform="matrix(1 0 0 1 -590.9027 105.9231)" class="st8 st10">mrs.</text>
+<text transform="matrix(1 0 0 1 -583.665 127.8461)" class="st11 st8 st10">girl</text>
+<text transform="matrix(1 0 0 1 -597.0034 149.7692)" class="st8 st10">queen</text>
+<text transform="matrix(1 0 0 1 -540.9759 171.6923)" class="st11 st8 st10">miss</text>
+<text transform="matrix(1 0 0 1 -534.1077 193.6154)" class="st8 st10">sister</text>
+<text transform="matrix(1 0 0 1 -542.4524 215.5385)" class="st8 st10">woman</text>
+<text transform="matrix(1 0 0 1 -541.2924 237.4615)" class="st8 st10">madam</text>
+<text transform="matrix(1 0 0 1 -544.0497 259.3846)" class="st11 st8 st10">princess</text>
+<text transform="matrix(1 0 0 1 -533.3995 281.3077)" class="st8 st10">mother</text>
+<text transform="matrix(1 0 0 1 -509.3111 303.2308)" class="st8 st10">ms.</text>
+<text transform="matrix(1 0 0 1 -498.9983 325.1538)" class="st8 st10">maid</text>
+<text transform="matrix(1 0 0 1 -490.5698 347.0769)" class="st11 st8 st10">lass</text>
+<text transform="matrix(1 0 0 1 -486.0846 369)" class="st11 st8 st10">doll</text>
+<text transform="matrix(1 0 0 1 -510.5216 390.9231)" class="st8 st10">baroness</text>
+<text transform="matrix(1 0 0 1 -487.7029 412.8462)" class="st8 st10">she-</text>
+<text transform="matrix(1 0 0 1 -507.1399 434.7692)" class="st8 st10">countess</text>
+<text transform="matrix(1 0 0 1 -504.326 456.6923)" class="st8 st10">empress</text>
+<text transform="matrix(1 0 0 1 -505.4588 478.6154)" class="st11 st8 st10">daughter</text>
+<text transform="matrix(1 0 0 1 -500.9589 500.5385)" class="st8 st10">duchess</text>
+<text transform="matrix(1 0 0 1 -477.0575 522.4615)" class="st11 st8 st10">gal</text>
+<text transform="matrix(1 0 0 1 -484.8003 544.3846)" class="st8 st10">mom</text>
+<text transform="matrix(1 0 0 1 -428.7758 412.8462)" class="st8 st10">he-</text>
+<text transform="matrix(1 0 0 1 -427.753 522.4615)" class="st11 st8 st10">guy</text>
+<text transform="matrix(1 0 0 1 -426.7301 544.3846)" class="st8 st10">dad</text>
+<text transform="matrix(1 0 0 1 -425.7072 566.3077)" class="st8 st10">senior</text>
+<text transform="matrix(1 0 0 1 -424.6844 478.6154)" class="st11 st8 st10">son</text>
+<text transform="matrix(1 0 0 1 -423.1501 500.5385)" class="st8 st10">duke</text>
+<text transform="matrix(1 0 0 1 -423.1501 456.6923)" class="st8 st10">emperor</text>
+<text transform="matrix(1 0 0 1 -418.0357 434.7692)" class="st8 st10">count</text>
+<text transform="matrix(1 0 0 1 -417.5243 588.2308)" class="st8 st10">don</text>
+<text transform="matrix(1 0 0 1 -415.99 347.0769)" class="st11 st8 st10">lad</text>
+<text transform="matrix(1 0 0 1 -415.4785 237.4615)" class="st8 st10">sir</text>
+<text transform="matrix(1 0 0 1 -415.4785 281.3077)" class="st8 st10">father</text>
+<text transform="matrix(1 0 0 1 -412.4099 193.6154)" class="st8 st10">brother</text>
+<text transform="matrix(1 0 0 1 -412.4099 259.3846)" class="st11 st8 st10">prince</text>
+<text transform="matrix(1 0 0 1 -408.8299 390.9231)" class="st8 st10">baron</text>
+<text transform="matrix(1 0 0 1 -405.2498 610.1539)" class="st11 st8 st10">junior</text>
+<text transform="matrix(1 0 0 1 -385.8153 127.8461)" class="st11 st8 st10">boy</text>
+<text transform="matrix(1 0 0 1 -369.9608 632.0769)" class="st8 st10">master</text>
+<text transform="matrix(1 0 0 1 -367.915 84)" class="st8 st10">lord</text>
+<text transform="matrix(1 0 0 1 -355.6406 149.7692)" class="st8 st10">king</text>
+<text transform="matrix(1 0 0 1 -262.5595 105.9231)" class="st8 st10">mr.</text>
+<text transform="matrix(1 0 0 1 -161.2954 215.5385)" class="st8 st10">man</text>
+<line class="st7" x1="-445.3" y1="30" x2="-445.3" y2="700"/>
+<line class="st3" x1="585.4" y1="37.7" x2="585.4" y2="31.7"/>
+<text transform="matrix(1 0 0 1 572.5242 28.701)" class="st8 st9">30%</text>
+<line class="st3" x1="498.4" y1="37.7" x2="498.4" y2="31.7"/>
+<text transform="matrix(1 0 0 1 485.5292 28.701)" class="st8 st9">20%</text>
+<line class="st3" x1="411.4" y1="37.7" x2="411.4" y2="31.7"/>
+<text transform="matrix(1 0 0 1 398.5341 28.701)" class="st8 st9">10%</text>
+<line class="st3" x1="324.4" y1="37.7" x2="324.4" y2="31.7"/>
+<text transform="matrix(1 0 0 1 315.1751 28.701)" class="st8 st9">0%</text>
+<line class="st3" x1="237.4" y1="37.7" x2="237.4" y2="31.7"/>
+<text transform="matrix(1 0 0 1 224.544 28.701)" class="st8 st9">10%</text>
+<line class="st3" x1="150.5" y1="37.7" x2="150.5" y2="31.7"/>
+<text transform="matrix(1 0 0 1 137.5488 28.701)" class="st8 st9">20%</text>
+<line class="st3" x1="63.5" y1="37.7" x2="63.5" y2="31.7"/>
+<text transform="matrix(1 0 0 1 50.5539 28.701)" class="st8 st9">30%</text>
+<line class="st4" x1="306.9" y1="356.6" x2="306.9" y2="356.6"/>
+<circle class="st5" cx="291.1" cy="289.7" r="8"/>
+<text transform="matrix(1 0 0 1 259.9441 293.6525)" class="st8 st10">ms.</text>
+<circle class="st5" cx="306.9" cy="327.6" r="8"/>
+<text transform="matrix(1 0 0 1 270.2569 331.6199)" class="st8 st10">maid</text>
+<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 -97.3852 616.713)" class="st5" cx="313.7" cy="365.6" rx="8" ry="8"/>
+<text transform="matrix(1 0 0 1 283.1706 369.5877)" class="st11 st8 st10">doll</text>
+<line class="st4" x1="282" y1="251.7" x2="338.8" y2="251.7"/>
+<line class="st4" x1="338.8" y1="251.7" x2="282" y2="251.7"/>
+<circle class="st5" cx="282" cy="251.7" r="8"/>
+<text transform="matrix(1 0 0 1 235.8556 255.6844)" class="st8 st10">mother</text>
+<text transform="matrix(1 0 0 1 353.7766 255.6844)" class="st8 st10">father</text>
+<line class="st4" x1="277.4" y1="213.7" x2="341.8" y2="213.7"/>
+<line class="st4" x1="341.8" y1="213.7" x2="277.4" y2="213.7"/>
+<circle class="st5" cx="277.4" cy="213.7" r="8"/>
+<text transform="matrix(1 0 0 1 225.2055 217.717)" class="st11 st8 st10">princess</text>
+<text transform="matrix(1 0 0 1 356.8452 217.717)" class="st11 st8 st10">prince</text>
+<path class="st0" d="M210.9,135.8c1.1,0,2,0.9,2,2s-0.9,2-2,2s-2-0.9-2-2S209.7,135.8,210.9,135.8z"/>
+<line class="st4" x1="213.9" y1="137.8" x2="368.4" y2="137.8"/>
+<line class="st4" x1="368.4" y1="137.8" x2="213.9" y2="137.8"/>
+<circle class="st5" cx="213.9" cy="137.8" r="8"/>
+<circle class="st6" cx="368.4" cy="137.8" r="8"/>
+<text transform="matrix(1 0 0 1 185.5902 141.7815)" class="st11 st8 st10">girl</text>
+<text transform="matrix(1 0 0 1 383.4398 141.7815)" class="st11 st8 st10">boy</text>
+<line class="st4" x1="208.3" y1="97.7" x2="386.3" y2="97.7"/>
+<line class="st4" x1="386.3" y1="97.7" x2="208.3" y2="97.7"/>
+<circle class="st5" cx="208.3" cy="97.7" r="10.8"/>
+<circle class="st6" cx="386.3" cy="97.7" r="8"/>
+<text transform="matrix(1 0 0 1 174.9093 101.701)" class="st8 st10">lady</text>
+<text transform="matrix(1 0 0 1 401.3401 101.701)" class="st8 st10">lord</text>
+<line class="st4" x1="593" y1="175.7" x2="274" y2="175.7"/>
+<circle class="st5" cx="274" cy="175.7" r="8"/>
+<circle class="st6" cx="593" cy="175.7" r="8"/>
+<text transform="matrix(1 0 0 1 226.8027 179.7492)" class="st8 st10">woman</text>
+<text transform="matrix(1 0 0 1 607.9597 179.7492)" class="st8 st10">man</text>
+<text transform="matrix(1 0 0 1 19.0308 342.8546)"><tspan x="0" y="0" class="st8 st10">&apos;Girl&apos; is thethird-most common</tspan><tspan x="0" y="19.2" class="st8 st10">gendered name for a female character.</tspan><tspan x="0" y="38.4" class="st8 st10">&apos;Boy&apos; only shows up sixth for males.</tspan></text>
+<text transform="matrix(1 0 0 1 19.0308 324.9318)" class="st12 st10">Girls, not women</text>
+<text transform="matrix(1 0 0 1 398.5341 362.742)"><tspan x="0" y="0" class="st8 st10">A full 30% of male characters with</tspan><tspan x="0" y="19.2" class="st8 st10">gendered names get &apos;man&apos; in their name.</tspan><tspan x="0" y="38.4" class="st8 st10">That number is only 6% for &apos;woman.&apos;</tspan></text>
+<text transform="matrix(1 0 0 1 401.3401 342.855)" class="st12 st10">Men, not boys</text>
+<line class="st7" x1="324.4" y1="51.7" x2="324.4" y2="401.7"/>
+</svg>
