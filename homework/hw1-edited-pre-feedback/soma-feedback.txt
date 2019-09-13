@@ -7,10 +7,8 @@ i'm contemplating whether you should extend a line to the left on the bottom so 
 make sure all of your lines are the same weight
 i feel like "The U.S. drops.." is larger than the other text, but maybe it's not? maybe drop the size of all of the annotations a bit so they stand out from the subhead (even though i was so adamant about font sizes)
 i feel like year should be bolded instead of the number but i reallydon't know
-
 smaller version: this is cumulative, right? so you can have a bar between '52 and '68
 maybe add a little breathing room on the right hand side between the bar and the ticks
-
 on the smallest one, align the text with the start of the bars, not with the years
 except for 1945
 (i give you permission to wrap the text)
