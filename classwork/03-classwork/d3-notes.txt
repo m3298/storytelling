@@ -1,0 +1,47 @@
+DATA & VISUAL ATTRIBUTES
+
+This is every active satellite orbiting earth
+https://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/
+
+MARK: circle, square
+DATA ATTRIBUTE: launch weight, altitude
+VIZ ATTRIBUTE: size of the circle, y-pos, colour
+
+
+wind map
+http://hint.fm/wind/
+
+MARK: lines, circles
+DATA ATTRIBUTE: wind speed, direction/movement of wind, cities
+VIZ ATTRIBUTE: density of white lines, city name
+
+dear data
+http://www.dear-data.com/by-week/#/week-17-a-week-of-food-preferences/
+
+1)
+MARK: triangle
+DATA ATTRIBUTE: food/flavour, ate only in UK or not, type of food, rating (how much she likes it)
+VIZ ATTRIBUTE: colour, black lines/no black lines, number of triangles
+
+2)
+MARK: lines, dots, symbols, X
+DATA ATTRIBUTE: the colour of the food, calories, single element/cooked/general food, main ingredient, boolean attributes, flavour, whether eaten last week
+VIZ ATTRIBUTE: length of line (calories), symbols (single element etc), line types (main ingredient), dot colour/type (bool), line colour (flavour), scribble colour
+
+------------------------------------------------------------------------
+
+Scale questions
+For each scale, you need to determine the domain (inputs) and range (outputs).
+
+Evenly space out the cities. Where is Moscow?
+	scale = d3.scalePoint().domain(names).range([0, width])
+	scale('Moscow')
+
+The biggest city is red. What color is Jakarta?
+	scale = d3.scaleLinear().domain([0, maxPop]).range(['white','red'])
+	scale(9.5)
+
+The biggest city is on the right-hand side. Where is Washington, DC?
+The biggest city has a radius of 300 pixels. How big is Moscow?
+
+

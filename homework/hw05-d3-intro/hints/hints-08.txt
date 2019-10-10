@@ -1,0 +1,86 @@
+You'll need to update the cy for the y position, the cx for the x position, and the r for the radius. Do them one at a time to save yourself headaches.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For the cy: Right now the SVG is 100 pixels tall, which means you could probably just set the cy to be 50. But what if I edited my code to make it taller? I don't want to repeat myself (D.R.Y)! Do a little math so that even if I change 'height' the circles will still be in the middle.
+
+
+
+
+
+
+
+
+
+
+
+
+For the cy: Is this going to be the same for every circle, or different for every circle?
+
+
+
+
+
+
+
+
+
+
+
+
+For the cx: Is this going to be the same for every circle, or different for every circle?
+
+
+
+
+
+
+
+
+
+
+
+For the cx: I promise I will never add new circles, you'll only ever have 4. We'll learn a better way to do this next week.
+
+
+
+
+
+
+
+
+
+
+
+
+
+For the cx: Instead of function(d), maybe function(d, i) could be helpful?
+
+
+
+
+
+
+
+
+
+
+For the r: Remember that we can't use scaleLinear() for radius.

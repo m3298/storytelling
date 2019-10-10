@@ -1,0 +1,112 @@
+Lede Storytelling D3 reference
+
+/// DIFFERENT TYPES OF CHARTS ////
+
+Horizontal bar chart:
+- hw05 chart13 (categorical colours)
+- test chart03 (animals vs count; uses .padding(0.25) to set bar width at 75%)
+
+Vertical bar chart:
+- hw05 chart14 (categorical colours)
+- hw07 chart01 (interactive, clicking bar chart about different countries' life expectancy)
+
+Scatter plots (scaleSqrt()):
+- hw05 chart08 (just circles, not a scatter plot)
+- hw05 chart10 (radius doesn't change)
+- hw05 chart11 (categorical scatter plot)
+- test chart01 (NBA player stats, coloured categorically, radius depends on points)
+- test chart02 (scatter plot of NBA players, by position)
+
+Area charts (remember to set y0 and y1)
+- hw09 chart06
+		AREA charts (Japan vs US fertility)
+- hw09 chart08
+		AREA charts
+		crazy one with different colours for extremely hot/hot/normal/cold/extremely cold
+
+Small multiples/multiple SVGs
+Simple line charts, each with its own SVG:
+- class09 chart02
+
+Multiple <g> per datapoint:
+- class09 chart04 (multiple lines, one for each city, max/min as endpoints)
+
+Small mlutiples:
+- hw09 chart06
+		AREA charts (Japan vs US fertility)
+- hw09 chart07
+		2 data files; multiple lines; USA line/annotation in all the small multiples, the other line changes in each small multiple
+- hw09 chart08
+		AREA charts
+		crazy one with categorical colours for extremely hot/hot/normal/cold/extremely cold
+
+Line charts:
+Single line chart with dots to mark data points:
+- hw09 chart01 (AAPL stock price)
+
+Multiple lines, single file:
+- hw09 chart04 (air emission, France vs Germany/Norway)
+- test chart05 (multiple lines, 1 highlighted red)
+
+Multiple lines, with annotations:
+- class09 chart01 (annotate cities on the right, by the last data point)
+- hw09 chart05 (categorical colours for lines)
+
+Multiple lines, different files:
+- hw09 chart02 (air consumption, multple line charts, coloured categorically)
+
+Multiple area, different files:
+- hw09 chart03
+
+//// SCALES & AXES & MISC ////
+
+scalePoints():
+- hw05 chart03 
+- test chart02 (scatter plot of NBA players, by position)
+
+Updating axes with d3.extent or d3.max (make sure to update axis domain before drawing charts):
+- test chart01 (NBA player stats, coloured categorically, radius depends on points)
+
+Dealing with dates:
+- hw07 chart02 (AAPL stock price - one headline label for the chart, infobox updates on hover)
+- hw09 chart01 (AAPL stock price)
+
+//// STYLISTIC CHANGES/ANNOTATIONS ////
+Highlight lines/points:
+- hw07 chart03 (slope graph on overdose deaths)
+- hw09 chart04 (air emission, France vs Germany/Norway)
+- hw09 chart05 (categorical colours for lines, with labels for each line)
+- test chart05 (multiple lines, 1 highlighted red)
+
+Annotations:
+- hw09 chart05 (categorical colours for lines; multiple lines)
+- hw07 chart02 (AAPL stock price - one headline label for the chart)
+
+Using padding to offset axes:
+- test chart02 (scatter plot of NBA players, by position)
+
+/// IMPORTING MULTIPLE DATA FILES ///
+
+- hw09 chart03 (single line)
+- hw09 chart02 (multiple lines)
+	 Air consumption, multple line charts, coloured categorically)
+- hw09 chart07
+		2 data files; multiple lines; USA line/annotation in all the small multiples, the other line changes in each small multiple
+
+//// Dynamic charts ////
+- test chart04 (dynamic bar chart of animals vs count)
+
+//// D3 EVENTS ////
+HOVER
+- hw07 chart02 (AAPL stock price - one headline label for the chart)
+	points' radius grow slightly larger on hover
+- hw07 chart03 (slope graph on overdose deaths)
+- test chart06 (NBA stats; black stroke around points on hover)
+
+CLICKING, using classes to highlight multiple data points
+- hw07 chart01 (interactive, clicking bar chart about different countries' life expectancy)
+- test chart06 (NBA stats; clicking updates infobox)
+
+INFOBOX
+- hw07 chart02 (AAPL stock price - one headline label for the chart, infobox updates on hover)
+- test chart06 (NBA stats)

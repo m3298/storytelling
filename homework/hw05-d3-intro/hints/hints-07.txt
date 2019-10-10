@@ -1,0 +1,125 @@
+You're going to delete the var svg= line, but you'll need another var svg=... line to replace it.
+
+
+
+
+
+
+
+
+
+
+
+
+Can't wait until we do it in class? Fine, fine.
+
+The code here grabs the div with an id of "chart", then puts an svg inside of it. It sets the width and height of the svg, then puts a g inside of it and repositions everything. 
+
+    var margin = {top: 20, right: 10, bottom: 20, left: 10}
+    var width = 960 - margin.left - margin.right,
+        height = 500 - margin.top - margin.bottom
+
+    var svg = d3.select("#chart").append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+
+What's a g? Well, I dunno, just calm down and wait until we do it in class. You don't need to know what it is to do the work!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The var svg=... line refers to a variable called "margins", so make sure you cut and paste that one, too.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By "a line" I mean "a bunch of lines that are connected to each other," it's probably more like 10 lines of code.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Technically speaking, you're grabbing the div, adding an svg, sizing the svg, then adding a "g" element inside of the svg. It's just an element used to space things out, and we spend our time pretending it's an SVG.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In class, we were drawing inside of <div id="chart"></div> - this time we're drawing inside of <div id="chart2"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+#chart is how you grab something with an ID of 'chart'. We don't have an id of chart (see above).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Take some time to read the margin variable names. You'll get it.

@@ -1,0 +1,23 @@
+If you cut and paste anything, remember that we're working inside of a diffferent div with a different id!
+
+
+
+
+
+
+Since we're building a bar graph, we need a d3.scaleBand().
+
+
+
+
+
+
+
+Honestly, the scaleBand + i thing is irritating me, so we're going to forget it now. We're going to learn a new trick, called "not telling your scale everything when you create it":
+
+1) DO NOT give the scale a domain when you create it. But do give it a the outputs!
+2) Inside of your ready function, after you have your datapoints, pick the names out of them with this:
+var names = datapoints.map(function(d) { return d.name })
+3) And then tell scaleBand about them
+scaleBand.domain(names)
+4) Then you just use your scale normally!

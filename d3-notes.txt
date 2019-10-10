@@ -1,0 +1,54 @@
+///ES LINT///
+
+if there is package.json file in your project already, all you need to do is:
+
+npm install
+
+this installs everything
+
+https://gist.github.com/jsoma/614f5c18a9de05de8f1cd47b430059d3
+
+///BUILD TOOLS///
+- minification/obfuscation
+- transpilation
+- polyfills
+- tree shaking
+
+- converts code so that they are compatible with older versions
+
+webpack
+gulp
+parcel >> runs on server
+
+parcel can't recognise csv. anytime you're trying to access external files, you need to use require. to force it to recognise csv, add require:
+
+	d3.csv(require('./countries.csv')).then(ready)
+	
+	*** need to ge rid of require from the code if you're not using parcel
+
+Run parcel for PRODUCTION (not development). Whenever you're running something on your server, it's just in development. This makes/publishes the final version.
+
+	npm run build
+	>> for production; for final version
+
+JUST FOR DEVELOPMENT - use when you are working on your code:
+	npm run start
+
+	>> looks at package.json, looks at "scripts:start", and runs parcel if this is what's in your package.json
+
+--------------------------------------------------------------------------------
+CLASS 11
+10.9.2019
+
+*** MERGING FILES INTO ONE SRC FOLDER TO UPLOAD TO WEB:
+- make sure hbs and script folders/files inside the src folder
+- make new .hbs files - some are in src/html/base, main pages are in src/html
+- shut server with ctrl+shift and restart server with npm run start
+
+- stealing code for d3.tip
+- stealing code for d3.annotation
+
+- run 'npm run build' to make it publishable (spits files into the Doc folder)
+- in the Github pages: use master branch/docs folder 
+https://www.d3-graph-gallery.com/graph/custom_annotation.html
+

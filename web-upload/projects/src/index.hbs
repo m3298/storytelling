@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang='en'>
+
+<head>
+
+  <link rel="stylesheet" href="styles/style.css">
+
+  {{> base/meta}}
+
+  {{> base/fonts }}
+
+  {{> base/analytics }}
+
+</head>
+
+<body>
+
+  <!-- The headline area pulls most of its content from data/meta.json -->
+
+  {{> base/headline }}
+
+  <main id='content'>
+
+      <!-- 
+        Put some content into an .hbs file inside of /partials, 
+        and you can just throw it in anywhere!
+      -->
+      
+      {{> story/basic }}
+
+      <!-- 
+        If you want to use something exported from ai2html...
+          1. Rename the exported .html file to .hbs
+          2. Put the .hbs file inside of 'html/story'
+          3. Move the exported images to the images folder
+          4. Include the partial normally like below
+       -->
+
+      {{> story/a_bomb }}
+
+      <!--
+        You can also put the actual HTML here if you really want to,
+        although it's a little less organized looking
+      -->
+
+      <div class="story-body">
+          <h2>Recording A-Bomb Deaths</h2>
+          <p>By the end of 1945, the atomic bombs had killed 214,000 people in Japan.<br>To remember them, the two cities began recording their deaths.</p>
+          <div id="chart-1"></div>
+          <p class='chart-source'>Sources: Hiroshima and Nagasaki city hall</p>
+          <p class='chart-source'>Notes: Relatives of the deceased apply to the city halls to register the deaths. Many victims are unidentified,and the lists do not include everyone who was killed by the bombs.</p>
+      </div>
+      <div class="story-body">
+          <h2>Dear sake lovers, you're being ripped off!</h2>
+          <p>Price of sake sold online in Japan VS the price listed on Sakaya NYC</p>
+          <div id="chart-2"></div>
+          <p class='chart-source'>Sources: Sakaya, Amazon.co.jp, Rakuten, Kakaku.com, Sake-Marui, Isetan, Tatenokawa, Nishiyama Sake Brewery</p>
+          <p class='chart-source'>Note: Prices of sake in Japan were converted to the US dollar at 0.0093 yen = 1 USD. Sake not available or no longer sold in Japan were excluded from the chart</p>
+      </div>
+
+    </div>
+
+    {{> base/footer }}
+  </main>
+
+  <!-- We'll always keep this JS files around -->
+  <script src="scripts/vendor/ai2html-resizer.js"></script>
+
+  <!-- This is where you'll put your JavaScript files -->
+  <script src="scripts/chart-01.js"></script>
+  <script src="scripts/chart-02.js"></script>
+
+</body>
+</html>

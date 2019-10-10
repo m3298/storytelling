@@ -1,0 +1,104 @@
+You'll need to update the cy for the y position, the cx for the x position, and the r for the radius. Do them one at a time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For the cy: Let's say an 100 pixels tall, which means you could probably just set the cy to be 50. But what if I edited my code to make it taller? I don't want to repeat myself (D.R.Y)! Do a little math so that even if I change the 'height' variable the circles will still be in the middle.
+
+
+
+
+
+
+
+
+
+
+
+
+For the cy: Is this going to be the same for every circle, or different for every circle?
+
+
+
+
+
+
+
+
+
+
+
+
+For the cx: Is this going to be the same for every circle, or different for every circle?
+
+
+
+
+
+
+
+
+
+
+
+A scalepoint is used to convert CATEGORIES to EVENLY SPACED NUMBERS. For example, if we wanted...
+  
+    inputs: days of the week
+    outputs: between 0-600, evenly spaced
+
+we'd use a scale like this:
+
+    var pointScale = d3.scalePoint()
+      .domain(['Mon', 'Tue', 'Wed', 'Thu', 'Fri'])
+      .range([0, 600])
+
+for which pointScale('Mon') would give us back 0, pointScale('Wed') would give us 300, and pointScale('Fri') would give us 600.
+
+
+
+
+
+
+
+
+
+
+Remember to attach your data to your circles!
+
+
+
+
+
+
+
+
+
+
+
+If you're getting an 'Cannot read property 'name' of undefined' error, *really* remember to attach your data to your circles
+
+
+
+
+
+
+
+For the r: Remember that we can't use scaleLinear() for radius. Square root magic!
+

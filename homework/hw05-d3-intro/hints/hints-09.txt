@@ -1,0 +1,13 @@
+python -m http.server
+
+How does this work? Well, the important part is
+
+    d3.csv("fake-data.csv")
+      .then(ready)
+      .catch(function(err) {
+        console.log("Failed with", err)
+      })
+
+    function ready(datapoints) {
+      svg.style("background", "green")
+    }

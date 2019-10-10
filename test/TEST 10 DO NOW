@@ -1,0 +1,34 @@
+TEST 10 DO NOW
+Minami Funakoshi
+10-07-2019
+
+1. node
+2. npm install
+3. installs a package globaly
+4. a file that specifies what configurations/packages you need to run a specific project
+5. folder with all the packages you need to run a specific project
+6. standardising code to make it clean/follow a specific style
+7. minify & allow older browsers to run your code (translate between newer/older verisons of JS)
+8. parcel
+9. .hbs; they are templates
+10. .circle; .path
+11. mouseover, mouseout, click
+12. var colourScale = d3.scaleLinear().domain([0, 100]).range(['white','red'])
+13. var radiusScale = d3.scaleSqr().domain([0, 25]).range([0, 10])
+14. .data() for multiple datapoints, .datum() for single data point
+svg.append('path').datum(single-data)
+svg.selectAll('path').data(multiple-data).enter().append('path')
+
+15. in attr('d'), d refers to the shape of the object you're drawing. function(d): d refers to datapoints
+16. We need margins to make sure you can add margins to 'g', which is the canvas where you actually draw, while specifying the outer bounds of the svg
+
+17. 
+
+svg.selectAll('rect')
+	.data(data)
+	.enter()
+	.append('rect')
+	.attr('rx', 0)
+	.attr('ry', d <= yPositionScale(d.city))
+	.attr('width', d <= xPositionScale(d.cases))
+	.attr('height', xPositionScale.width())

@@ -1,0 +1,53 @@
+
+
+
+
+For each one of these scales, you'll need to specify the inputs and outputs. What are inputs called in a d3 scale? What are outputs called?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+When you're passing the inputs and outputs, make sure you're sending a list. If you use ([1, 2]) it will work, if you use (1, 2) it won't work.
+
+
+
+
+
+
+
+
+
+
+
+
+
+For the linear scale, think about the smallest and largest inputs, and the smallest and largest outputs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For the category scale - the ordinal scale - you'll need to give it every possible input, and every possible output.
+
+

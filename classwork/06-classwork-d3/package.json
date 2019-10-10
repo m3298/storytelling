@@ -1,0 +1,17 @@
+{
+  "name": "06-classwork-d3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "02-svg-and-d3.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.3.0",
+    "@typescript-eslint/parser": "^2.3.0",
+    "eslint": "^6.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,50 @@
+This is basically the same thing as the last graph. Maybe you can cut and paste? BUT REMEMBER: we're using a different div with a different id!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You can't use a linear scale with a categorical variable (animal type is a category, of course!). You don't want an ordinal scale, either - that maps a category (animal) to another category (color). You're looking for a POINT SCALE, which evenly spaces out categories. It's like the band scale we used in class, except it's for circles instead of rectangles. You need to give it every category and the min and max of your output.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+every category is cat, cow, dog.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Honestly everything else is exactly like the last one!
+

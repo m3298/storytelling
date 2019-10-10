@@ -1,0 +1,80 @@
+Previously, we've done something like this:
+
+  svg.selectAll("rect")
+    .data(cities)
+    .attr('width', function (d) {
+      return widthScale(d.population)
+    })
+
+But that only works for existing rectangles! If you want to add a new rectangle for every data point, you need to add .enter().append("rect") to your code right after the .data step, like this:
+
+  svg.selectAll("rect")
+    .data(cities)
+    .enter().append("rect")
+    .attr('width', function (d) {
+      return widthScale(d.population)
+    })
+
+
+
+
+
+
+
+
+The rest is just the same sort of stuff you did in the previous problems!
+
+
+
+
+
+
+You aren't adding rects, by the way. It's bubbles.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make sure you're adding circles, not rectangles!
+
+
+
+
+
+
+
+
+
+
+
+
+
+As always, take it one step at a time.
+
+1. Add the circles
+2. Give them a radius so they show up
+3. Fix one attribute
+4. Fix another attribute
+5. ...etc
+
+
+
+
+
+
+
+
+
+
+
+
+

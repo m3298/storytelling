@@ -1,0 +1,117 @@
+
+
+jQuery
+
+d3.select(".blarble").on('click')
+$(".blarble").on('click')
+$(".blarble").click()
+
+
+document.querySelectorAll(".blarble")
+"sugar"
+
+
+Do Now
+Monday, September 30, 2019
+
+Reviewing: Weird node stuff
+
+1) What command do you need to run when you first download/use a new node.js project?
+
+npm install
+
+2) What does -g do when using it to install a package?
+
+"globally" - installs across our entire system
+
+3) What is package.json?
+
+Everything the computer needs to know about the node.js project - mostly we're interested in the modules (or packages) that our project needs
+
+4) What is a dependency?
+
+just another word for a module that our code depends on
+
+
+5) What is node_modules?
+
+the folder where npm installs all of the modules listed in package.json
+
+
+6) What is .eslintrc.json?
+
+linting - process of automatedly cleaning your code
+eslint - the linter that we use for javascript
+the setup for our coding style
+
+ECMAScript
+eslint
+jslint
+
+7) Name two things a build system might do.
+
+
+function () {
+  var myName = "Soma";
+  console.log(myName);
+}
+
+function(){var a="Soma";console.log(a);}
+
+minification/obfuscates
+allows your code to be run ny older browsers - polyfills, transpilation from es6
+concatenate your code - combine different js files into one file
+cache busting - graphic.js -> graphic.uh3983.js
+
+taking your development code -> turning into production code
+
+
+8) Name one build system we don’t use.
+
+webpack
+grunt
+gulp
+babel (not really)
+
+9) We’ve used something called parcel and we’ve used something called sawhorse. What’s the difference between them?
+
+parcel -> html/css/js magic -> it's a build system
+sawhorse -> template for building d3-driven or ai2html-ing websites
+
+sawhorse uses parcel as its build system, but it also uses a lot other things
+
+
+10) What is Handlebars? What does Handlebars code look like?
+
+{{ }}
+
+templating language
+
+works inside of HTML
+
+<h1>{{ title }}</h1>
+<h1>This is your homework</h1>
+
+11) Name 3 JavaScript events.
+
+.on('click', function() {
+})
+
+.on('mouseover', function() {
+})
+
+.on('mouseout', function() {
+})
+
+
+12) What’s the difference between function (d) and d =>?
+
+d => is from the future
+you have to use function (d) if you want to edit the thing that was clicked/hovered by using d3.select(this)
+
+13) In d3, how do you select something with the class name of blarble? How do you select something with the id of gnarblet? 
+
+d3.select(".blarble")
+d3.select("#gnarblet")
+
+
