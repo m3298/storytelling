@@ -2,7 +2,6 @@ body {
     margin:auto;
     padding:50px 10px;
     font-family: 'Open Sans', sans-serif;
-    color: #4d4d4d
 }
 
 img {
@@ -169,10 +168,8 @@ p.chart-label {
 
 }
 
-
-
 p.chart-source {
-    font-size:0.75rem;
+    font-size:0.85rem;
     margin:0;
 }
 
@@ -225,17 +222,13 @@ p.caption {
         padding:0;
     }
 
+    .d3-tip {
+        line-height: auto;
+        font-size: 13px;
+        padding: 5px;
+        background-color: #fff;
+        color: #666;
+        opacity:0.5
+      }
+      
 }
-
-.annotation {
-    font-size: 12px;
-  }
-
-  .d3-tip {
-    line-height: auto;
-    font-size: 13px;
-    padding: 5px;
-    background-color: #fff;
-    color: #666;
-    opacity:0.5
-  }
